@@ -1,0 +1,262 @@
+[
+    {
+        "grenade": {
+            "run": 1,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "B plant (deep)"
+        ],
+        "position": [
+            -83.755348205566,
+            -1836.5811767578,
+            64.031280517578
+        ],
+        "viewangles": [
+            -30.971599578857,
+            59.844841003418
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "B plant (close)"
+        ],
+        "position": [
+            -83.755348205566,
+            -1836.5811767578,
+            64.031280517578
+        ],
+        "viewangles": [
+            -25.889600753784,
+            54.630786895752
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 24,
+            "run_yaw": 60
+        },
+        "name": [
+            "Unnamed",
+            "A Plant"
+        ],
+        "position": [
+            -621.17053222656,
+            -1634.4638671875,
+            64.03125
+        ],
+        "viewangles": [
+            15.228491783142,
+            109.33102416992
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "L side"
+        ],
+        "position": [
+            1267.3953857422,
+            -668.66906738281,
+            65.03125
+        ],
+        "viewangles": [
+            -43.577503204346,
+            -140.69137573242
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 4,
+            "strength": 0.5
+        },
+        "name": [
+            "Unnamed",
+            "R side"
+        ],
+        "position": [
+            1058.0975341797,
+            -704.15173339844,
+            65.03125
+        ],
+        "viewangles": [
+            -37.527400970459,
+            -100.95965576172
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 4,
+            "strength": 0.5
+        },
+        "name": [
+            "Unnamed",
+            "R side"
+        ],
+        "position": [
+            1058.0975341797,
+            -704.15173339844,
+            65.03125
+        ],
+        "viewangles": [
+            -37.527400970459,
+            -100.95965576172
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "L side"
+        ],
+        "position": [
+            1267.3953857422,
+            -668.66906738281,
+            65.03125
+        ],
+        "viewangles": [
+            -43.577503204346,
+            -140.69137573242
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 24,
+            "run_yaw": 60
+        },
+        "name": [
+            "Unnamed",
+            "A Plant"
+        ],
+        "position": [
+            -621.17053222656,
+            -1634.4638671875,
+            64.03125
+        ],
+        "viewangles": [
+            15.228491783142,
+            109.33102416992
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "B plant (close)"
+        ],
+        "position": [
+            -83.755348205566,
+            -1836.5811767578,
+            64.031280517578
+        ],
+        "viewangles": [
+            -25.889600753784,
+            54.630786895752
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "Unnamed",
+            "B plant (deep)"
+        ],
+        "position": [
+            -83.755348205566,
+            -1836.5811767578,
+            64.031280517578
+        ],
+        "viewangles": [
+            -30.971599578857,
+            59.844841003418
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "Unnamed",
+            "L side"
+        ],
+        "position": [
+            1044.3402099609,
+            -872.95739746094,
+            91.342430114746
+        ],
+        "viewangles": [
+            -31.023929595947,
+            -104.62013244629
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "R side"
+        ],
+        "position": [
+            1044.3402099609,
+            -872.95739746094,
+            91.342430114746
+        ],
+        "viewangles": [
+            -20.661937713623,
+            -104.62014007568
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "Unnamed",
+            "L side"
+        ],
+        "position": [
+            1044.3402099609,
+            -872.95739746094,
+            91.342430114746
+        ],
+        "viewangles": [
+            -31.023929595947,
+            -104.62013244629
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "R side"
+        ],
+        "position": [
+            1044.3402099609,
+            -872.95739746094,
+            91.342430114746
+        ],
+        "viewangles": [
+            -20.661937713623,
+            -104.62014007568
+        ],
+        "weapon": "weapon_molotov"
+    }
+]

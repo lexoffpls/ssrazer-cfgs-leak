@@ -1,0 +1,84 @@
+[
+    {
+        "name": [
+            "push",
+            "push"
+        ],
+        "position": [
+            583.44348144531,
+            762.51550292969,
+            232.58489990234
+        ],
+        "viewangles": [
+            2.19991255,
+            -15.5679474
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "delay": 1,
+            "jump": true,
+            "recovery_jump": true,
+            "run": 5
+        },
+        "name": [
+            "Tunnel",
+            "Roof"
+        ],
+        "position": [
+            1922.1215820313,
+            366.64321899414,
+            -275.68713378906
+        ],
+        "viewangles": [
+            -34.581371307373,
+            155.3254699707
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "delay": 1,
+            "jump": true,
+            "recovery_jump": true,
+            "run": 5
+        },
+        "name": [
+            "Tunnel",
+            "Chimney "
+        ],
+        "position": [
+            1921.978515625,
+            366.55706787109,
+            -275.97314453125
+        ],
+        "viewangles": [
+            -39.129779815674,
+            161.03521728516
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "delay": 1,
+            "jump": true,
+            "recovery_jump": true,
+            "run": 5
+        },
+        "name": [
+            "Tunnel",
+            "Roof Ledge"
+        ],
+        "position": [
+            1922.3089599609,
+            366.78826904297,
+            -275.31216430664
+        ],
+        "viewangles": [
+            -33.613620758057,
+            148.7431640625
+        ],
+        "weapon": "weapon_molotov"
+    }
+]

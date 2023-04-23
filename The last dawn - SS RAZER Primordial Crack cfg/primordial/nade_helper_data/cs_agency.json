@@ -1,0 +1,1145 @@
+[
+    {
+        "duck": true,
+        "name": [
+            "Connector",
+            "Table"
+        ],
+        "position": [
+            -432.03573608398,
+            937.15594482422,
+            320.03125
+        ],
+        "viewangles": [
+            -49.754272460938,
+            -30.437696456909
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "run": 1,
+            "run_speed": true
+        },
+        "name": [
+            "here",
+            "Back Room"
+        ],
+        "position": [
+            -799.63824462891,
+            -184.59886169434,
+            512.03125
+        ],
+        "viewangles": [
+            -10.826586723328,
+            111.74664306641
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "here",
+            "Back Hall"
+        ],
+        "position": [
+            -1188.8803710938,
+            143.89091491699,
+            320.03125
+        ],
+        "viewangles": [
+            -26.517234802246,
+            82.64168548584
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "fov": 5.12,
+            "run": 62,
+            "strength": 0.5
+        },
+        "name": [
+            "Boost[1]",
+            "Boost"
+        ],
+        "position": [
+            -1212.5748291016,
+            975.56878662109,
+            512.03125
+        ],
+        "viewangles": [
+            -22.948431015015,
+            -75.298896789551
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "fov": 5.12,
+            "run": 58,
+            "strength": 0.5
+        },
+        "name": [
+            "Boost[1]",
+            "Boost"
+        ],
+        "position": [
+            -1212.5748291016,
+            975.56878662109,
+            512.03125
+        ],
+        "viewangles": [
+            -22.948431015015,
+            -75.298896789551
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "fov": 5.12
+        },
+        "name": [
+            "Stairs[2]",
+            "Connector"
+        ],
+        "position": [
+            -271.96875,
+            1105.3381347656,
+            512.03125
+        ],
+        "viewangles": [
+            -0.34016251564026,
+            -10.889155387878
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "fov": 5.12,
+            "run": 1
+        },
+        "name": [
+            "Stairs[1]",
+            "Connector"
+        ],
+        "position": [
+            -271.96875,
+            1105.3381347656,
+            512.03125
+        ],
+        "viewangles": [
+            5.3374109268188,
+            -14.793946266174
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "fov": 5.12,
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -316.25912475586,
+            1224.3090820313,
+            512.03125
+        ],
+        "viewangles": [
+            4.4316468238831,
+            -41.75857925415
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "fov": 5.12,
+            "run": 1
+        },
+        "name": [
+            "Utility[1]",
+            "Back Room"
+        ],
+        "position": [
+            -1428.9642333984,
+            125.16588592529,
+            320.03125
+        ],
+        "viewangles": [
+            -25.944690704346,
+            56.38818359375
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "fov": 5.12,
+            "run": 52
+        },
+        "name": [
+            "Boost[2]",
+            "Boost"
+        ],
+        "position": [
+            -1207.7043457031,
+            1003.6811523438,
+            512.03125
+        ],
+        "viewangles": [
+            -10.157413482666,
+            -77.00227355957
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Table"
+        ],
+        "position": [
+            -999.16302490234,
+            -207.25621032715,
+            512.03125
+        ],
+        "viewangles": [
+            -10.727186203003,
+            63.476913452148
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 5
+        },
+        "name": [
+            "Unnamed",
+            "Table"
+        ],
+        "position": [
+            -992.08190917969,
+            -263.73156738281,
+            550.28326416016
+        ],
+        "viewangles": [
+            -3.9698996543884,
+            65.19019317627
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "Table"
+        ],
+        "position": [
+            -1189.0191650391,
+            143.95858764648,
+            320.03125
+        ],
+        "viewangles": [
+            -27.434160232544,
+            41.218830108643
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "run": 16
+        },
+        "name": [
+            "Unnamed",
+            "Hall"
+        ],
+        "position": [
+            -1188.9782714844,
+            143.91416931152,
+            320.03125
+        ],
+        "viewangles": [
+            -24.420198440552,
+            41.842620849609
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "run": 3,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Table"
+        ],
+        "position": [
+            -1188.8916015625,
+            143.81219482422,
+            320.03125
+        ],
+        "viewangles": [
+            -24.959371566772,
+            41.76732635498
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "jump": true,
+            "run": 23
+        },
+        "name": [
+            "Unnamed",
+            "Hall"
+        ],
+        "position": [
+            -1188.9143066406,
+            143.88026428223,
+            320.03125
+        ],
+        "viewangles": [
+            -0.15422214567661,
+            42.119560241699
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "duck": true,
+        "name": [
+            "Unnamed",
+            "Table"
+        ],
+        "position": [
+            -456.54025268555,
+            800.72894287109,
+            320.03125
+        ],
+        "viewangles": [
+            -23.15191078186,
+            59.429149627686
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "GLASS",
+        "grenade": {
+            "run": 5
+        },
+        "name": [
+            "Unnamed",
+            "Back Hall"
+        ],
+        "position": [
+            -1188.9171142578,
+            143.91801452637,
+            320.03125
+        ],
+        "viewangles": [
+            -25.991638183594,
+            82.780670166016
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "jump": true,
+            "recovery_yaw": 90,
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Back room"
+        ],
+        "position": [
+            -881.56518554688,
+            -216.83163452148,
+            512.03125
+        ],
+        "viewangles": [
+            14.431994438171,
+            107.1039276123
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_yaw": 90,
+            "run": 20
+        },
+        "name": [
+            "Unnamed",
+            "Hall"
+        ],
+        "position": [
+            -162.36756896973,
+            67.334327697754,
+            494.84332275391
+        ],
+        "viewangles": [
+            6.7737941741943,
+            57.023017883301
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 20,
+            "run_yaw": -90
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -164.77836608887,
+            47.644664764404,
+            461.64538574219
+        ],
+        "viewangles": [
+            9.5832033157349,
+            93.747688293457
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 0,
+            "run": 18
+        },
+        "name": [
+            "Unnamed",
+            "FD"
+        ],
+        "position": [
+            854.1728515625,
+            -534.51788330078,
+            256.03125
+        ],
+        "viewangles": [
+            -21.98237991333,
+            -127.4036026001
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 90,
+            "run": 14
+        },
+        "name": [
+            "Unnamed",
+            "Back Room"
+        ],
+        "position": [
+            -1369.6918945313,
+            500.28802490234,
+            552.03125
+        ],
+        "viewangles": [
+            6.3151044845581,
+            33.011573791504
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 90,
+            "run": 14
+        },
+        "name": [
+            "Unnamed",
+            "Back Room"
+        ],
+        "position": [
+            -1367.216796875,
+            507.76156616211,
+            552.03125
+        ],
+        "viewangles": [
+            5.5627064704895,
+            32.021572113037
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": 90,
+            "run": 16
+        },
+        "name": [
+            "Unnamed",
+            "Back Room"
+        ],
+        "position": [
+            -1573.5417480469,
+            392.26763916016,
+            386.8056640625
+        ],
+        "viewangles": [
+            1.9458986520767,
+            29.837177276611
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": 90,
+            "run": 16
+        },
+        "name": [
+            "Unnamed",
+            "Back Room"
+        ],
+        "position": [
+            -1573.5443115234,
+            392.26623535156,
+            386.8056640625
+        ],
+        "viewangles": [
+            1.9458986520767,
+            29.837177276611
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 22
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -1015.0263671875,
+            1264.05078125,
+            512.03125
+        ],
+        "viewangles": [
+            -1.8161420822144,
+            5.1530284881592
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 22
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -1015.0159912109,
+            1264.0516357422,
+            512.03125
+        ],
+        "viewangles": [
+            -1.8161420822144,
+            5.1530284881592
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Connector"
+        ],
+        "position": [
+            -317.58935546875,
+            1126.1427001953,
+            512.03125
+        ],
+        "viewangles": [
+            11.065955162048,
+            -15.749816894531
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 3
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -442.69372558594,
+            1252.8084716797,
+            512.03125
+        ],
+        "viewangles": [
+            3.9159610271454,
+            11.288175582886
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "duck": true,
+        "name": [
+            "Unnamed",
+            "Connector"
+        ],
+        "position": [
+            -333.71154785156,
+            1473.9190673828,
+            512.03125
+        ],
+        "viewangles": [
+            -11.154036521912,
+            -62.477798461914
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 180,
+            "run": 18,
+            "run_yaw": -123
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -304.04116821289,
+            1494.4632568359,
+            512.03125
+        ],
+        "viewangles": [
+            1.0999253988266,
+            17.73419380188
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -271.93765258789,
+            1105.3148193359,
+            512.03125
+        ],
+        "viewangles": [
+            -1.5743560791016,
+            -29.292850494385
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -271.93356323242,
+            1105.3125,
+            512.03125
+        ],
+        "viewangles": [
+            -1.5743560791016,
+            -29.292850494385
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "delay": 6,
+            "jump": true,
+            "run": 2
+        },
+        "name": [
+            "Stairs",
+            "Hall"
+        ],
+        "position": [
+            64.012969970703,
+            1138.1029052734,
+            353.0862121582
+        ],
+        "viewangles": [
+            -28.948514938354,
+            -6.4033007621765
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "delay": 10,
+            "jump": true,
+            "run": 12
+        },
+        "name": [
+            "Stairs",
+            "Hall"
+        ],
+        "position": [
+            64.03125,
+            1151.9807128906,
+            360.02532958984
+        ],
+        "viewangles": [
+            -38.69815826416,
+            -8.362473487854
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "run": 17
+        },
+        "name": [
+            "Unnamed",
+            "Back Room"
+        ],
+        "position": [
+            -1188.9310302734,
+            143.9144744873,
+            320.03125
+        ],
+        "viewangles": [
+            -30.54377746582,
+            81.642135620117
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "run": 17
+        },
+        "name": [
+            "Unnamed",
+            "Back Room"
+        ],
+        "position": [
+            -1188.9274902344,
+            143.91535949707,
+            320.03125
+        ],
+        "viewangles": [
+            -30.54377746582,
+            81.642135620117
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "A Ramp",
+            "A Site"
+        ],
+        "position": [
+            -578.54052734375,
+            -1211.6442871094,
+            11673.852539063
+        ],
+        "viewangles": [
+            -24.721466064453,
+            40.554149627686
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "delay": 11,
+            "jump": true,
+            "run": 8
+        },
+        "name": [
+            "Unnamed",
+            "A Ramp/Beton FD"
+        ],
+        "position": [
+            -616.05078125,
+            -210.81918334961,
+            11776.03125
+        ],
+        "viewangles": [
+            -7.6156783103943,
+            -134.39794921875
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "delay": 4,
+            "jump": true,
+            "run": 5
+        },
+        "name": [
+            "Unnamed",
+            "Back Hall"
+        ],
+        "position": [
+            -532.38024902344,
+            92.079803466797,
+            512.03125
+        ],
+        "viewangles": [
+            -6.9438333511353,
+            107.11127471924
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "to destroy the glass",
+        "grenade": {
+            "delay": 3,
+            "jump": true,
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Back Hall"
+        ],
+        "position": [
+            -532.37054443359,
+            92.101638793945,
+            512.03125
+        ],
+        "viewangles": [
+            -5.7056503295898,
+            106.88988494873
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 8
+        },
+        "name": [
+            "Unnamed",
+            "Push"
+        ],
+        "position": [
+            -1509.6960449219,
+            794.70373535156,
+            512.03125
+        ],
+        "viewangles": [
+            -6.5995087623596,
+            22.251346588135
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 2
+        },
+        "name": [
+            "Unnamed",
+            "Push"
+        ],
+        "position": [
+            -1373.5391845703,
+            882.63159179688,
+            512.03125
+        ],
+        "viewangles": [
+            -8.4658985137939,
+            17.28782081604
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -293.17852783203,
+            1207.4035644531,
+            512.03125
+        ],
+        "viewangles": [
+            2.7880172729492,
+            -42.134559631348
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "to destroy the glass",
+        "grenade": {
+            "run": 16
+        },
+        "name": [
+            "Unnamed",
+            "Back Hall"
+        ],
+        "position": [
+            -956.02221679688,
+            -137.95361328125,
+            512.03125
+        ],
+        "viewangles": [
+            -28.908239364624,
+            90.115264892578
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "run": 13
+        },
+        "name": [
+            "Unnamed",
+            "Back Hall"
+        ],
+        "position": [
+            -956.02209472656,
+            -137.98715209961,
+            512.03125
+        ],
+        "viewangles": [
+            -29.238090515137,
+            90.445373535156
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 2
+        },
+        "name": [
+            "Unnamed",
+            "Push"
+        ],
+        "position": [
+            -1373.5391845703,
+            882.63159179688,
+            512.03125
+        ],
+        "viewangles": [
+            -8.4658985137939,
+            17.28782081604
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 8
+        },
+        "name": [
+            "Unnamed",
+            "Push"
+        ],
+        "position": [
+            -1509.6960449219,
+            794.70373535156,
+            512.03125
+        ],
+        "viewangles": [
+            -6.5995087623596,
+            22.251346588135
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Hall"
+        ],
+        "position": [
+            -57.549175262451,
+            958.29626464844,
+            320.03125
+        ],
+        "viewangles": [
+            -49.41296005249,
+            7.2556858062744
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Connector"
+        ],
+        "position": [
+            -420.76797485352,
+            1187.3758544922,
+            512.03125
+        ],
+        "viewangles": [
+            1.8945363759995,
+            -18.269491195679
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 3
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -304.03125,
+            1494.3895263672,
+            512.03125
+        ],
+        "viewangles": [
+            -8.0772266387939,
+            -155.11502075195
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "Connector"
+        ],
+        "position": [
+            -316.884765625,
+            1126.681640625,
+            512.03125
+        ],
+        "viewangles": [
+            0.94772738218307,
+            -15.154012680054
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "name": [
+            "Unnamed",
+            "Connector"
+        ],
+        "position": [
+            -420.75506591797,
+            1187.3697509766,
+            512.03125
+        ],
+        "viewangles": [
+            2.0862758159637,
+            -17.487436294556
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 1,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            -420.73123168945,
+            1187.3878173828,
+            512.03125
+        ],
+        "viewangles": [
+            -0.59146505594254,
+            36.488567352295
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Hall"
+        ],
+        "position": [
+            -57.57230758667,
+            958.31884765625,
+            320.03125
+        ],
+        "viewangles": [
+            -15.166875839233,
+            7.1877975463867
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 18
+        },
+        "name": [
+            "Unnamed",
+            "Hall"
+        ],
+        "position": [
+            -1429.9184570313,
+            130.11730957031,
+            320.03125
+        ],
+        "viewangles": [
+            -25.70051574707,
+            32.721515655518
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 11,
+            "run_yaw": -90
+        },
+        "name": [
+            "Unnamed",
+            "Main Hall"
+        ],
+        "position": [
+            -997.99768066406,
+            1268.7585449219,
+            512.03125
+        ],
+        "viewangles": [
+            -4.609513759613,
+            -76.789985656738
+        ],
+        "weapon": "weapon_hegrenade"
+    }
+]

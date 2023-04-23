@@ -1,0 +1,773 @@
+[
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_yaw": -90,
+            "run": 13
+        },
+        "name": [
+            "Unnamed",
+            "Wall"
+        ],
+        "position": [
+            -1541.3243408203,
+            19.739463806152,
+            2.03125
+        ],
+        "viewangles": [
+            -0.1538669615984,
+            102.7200012207
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -90,
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            -1690.0689697266,
+            20.909048080444,
+            0.33441925048828
+        ],
+        "viewangles": [
+            -18.971960067749,
+            60.74267578125
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "delay": 10,
+            "jump": true,
+            "recovery_yaw": -90,
+            "run": 16
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            -1709.0382080078,
+            -75.782806396484,
+            75.03125
+        ],
+        "viewangles": [
+            4.6156277656555,
+            65.745635986328
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 9
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            -1901.3035888672,
+            197.99436950684,
+            58.03125
+        ],
+        "viewangles": [
+            -7.231059551239,
+            36.342754364014
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 3
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            -811.88781738281,
+            314.02264404297,
+            -55.96875
+        ],
+        "viewangles": [
+            -29.734622955322,
+            118.13845062256
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 17
+        },
+        "name": [
+            "Unnamed",
+            "Connector"
+        ],
+        "position": [
+            -347.99420166016,
+            267.89080810547,
+            -119.96875
+        ],
+        "viewangles": [
+            9.190242767334,
+            -132.52151489258
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Right",
+        "name": [
+            "Unnamed",
+            "Pillar"
+        ],
+        "position": [
+            850.03125,
+            627.05059814453,
+            -191.96875
+        ],
+        "viewangles": [
+            -26.195936203003,
+            91.301628112793
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 17,
+            "strength": 0.5
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            1102.3190917969,
+            513.29522705078,
+            -143.97128295898
+        ],
+        "viewangles": [
+            -5.7916736602783,
+            88.028816223145
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 15
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            1169.7039794922,
+            687.92919921875,
+            -148.96875
+        ],
+        "viewangles": [
+            -17.176765441895,
+            91.995742797852
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "Door"
+        ],
+        "position": [
+            1231.9866943359,
+            714.59704589844,
+            -151.96875
+        ],
+        "viewangles": [
+            -22.782138824463,
+            129.65742492676
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 90,
+            "run": 15
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            540.21282958984,
+            1244.03125,
+            -48.10432434082
+        ],
+        "viewangles": [
+            -10.106692314148,
+            19.172409057617
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 18
+        },
+        "name": [
+            "Unnamed",
+            "Wall"
+        ],
+        "position": [
+            -1547.7111816406,
+            76.041442871094,
+            0.31305688619614
+        ],
+        "viewangles": [
+            7.6382150650024,
+            102.97623443604
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 20
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            -1901.2895507813,
+            198.11535644531,
+            58.03125
+        ],
+        "viewangles": [
+            -7.1728043556213,
+            36.340522766113
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -90,
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            -1645.6479492188,
+            95.770301818848,
+            2.03125
+        ],
+        "viewangles": [
+            -16.521156311035,
+            64.780418395996
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 8
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            1189.75390625,
+            543.64642333984,
+            -151.96875
+        ],
+        "viewangles": [
+            -2.6146936416626,
+            95.96997833252
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 23
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            766.93536376953,
+            629.05120849609,
+            -107.96875
+        ],
+        "viewangles": [
+            2.0284690856934,
+            78.444747924805
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "unsafe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 180,
+            "run": 10,
+            "run_yaw": 90
+        },
+        "name": [
+            "Unnamed",
+            "Boost [Deep]"
+        ],
+        "position": [
+            -1627.5882568359,
+            97.321662902832,
+            2.03125
+        ],
+        "viewangles": [
+            -22.676055908203,
+            34.399326324463
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_yaw": -90,
+            "run": 9
+        },
+        "name": [
+            "Outside",
+            "Boost"
+        ],
+        "position": [
+            -1784.33984375,
+            -139.34735107422,
+            32.03125
+        ],
+        "viewangles": [
+            4.6749782562256,
+            60.399791717529
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 4
+        },
+        "name": [
+            "Middle",
+            "Corner"
+        ],
+        "position": [
+            16.663610458374,
+            1512.7092285156,
+            -21.199783325195
+        ],
+        "viewangles": [
+            -9.3400287628174,
+            119.75719451904
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "destroy glass",
+        "grenade": {
+            "jump": true,
+            "run": 15
+        },
+        "name": [
+            "Middle Doors",
+            "Middle"
+        ],
+        "position": [
+            -19.842645645142,
+            1645.96875,
+            2.8513948917389
+        ],
+        "viewangles": [
+            5.0149512290955,
+            -45.462879180908
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Short",
+            "Boost"
+        ],
+        "position": [
+            -209.51281738281,
+            1347.3251953125,
+            63.960884094238
+        ],
+        "viewangles": [
+            -4.0600447654724,
+            -144.51768493652
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -90,
+            "run": 13
+        },
+        "name": [
+            "Unnamed",
+            "Pillar"
+        ],
+        "position": [
+            -1697.5018310547,
+            178.78070068359,
+            2.03125
+        ],
+        "viewangles": [
+            -21.06300163269,
+            42.632564544678
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "delay": 8,
+            "jump": true,
+            "run": 12
+        },
+        "name": [
+            "Unnamed",
+            "Corner"
+        ],
+        "position": [
+            -1414.6896972656,
+            448.06344604492,
+            0.03125
+        ],
+        "viewangles": [
+            -3.3653001785278,
+            74.73656463623
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 21
+        },
+        "name": [
+            "Unnamed",
+            "Under Stairs"
+        ],
+        "position": [
+            1726.1726074219,
+            1300.3498535156,
+            -148.41442871094
+        ],
+        "viewangles": [
+            -2.9212942123413,
+            127.04277801514
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 8
+        },
+        "name": [
+            "Unnamed",
+            "Bridge"
+        ],
+        "position": [
+            -143.45135498047,
+            262.21835327148,
+            -191.91648864746
+        ],
+        "viewangles": [
+            -47.623226165771,
+            177.2578125
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "glass",
+        "grenade": {
+            "run": 5,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            376.46655273438,
+            2143.0310058594,
+            -119.96875
+        ],
+        "viewangles": [
+            -25.560941696167,
+            -27.665512084961
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "duck": true,
+        "grenade": {
+            "run": 1,
+            "run_yaw": 180
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            605.43572998047,
+            1817.9184570313,
+            -38.96875
+        ],
+        "viewangles": [
+            -18.241464614868,
+            33.739269256592
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -90,
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            -1690.0582275391,
+            20.911552429199,
+            0.33341598510742
+        ],
+        "viewangles": [
+            -21.893268585205,
+            60.750419616699
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "delay": 6,
+            "jump": true,
+            "run": 21
+        },
+        "name": [
+            "Boost",
+            "Under Stairs"
+        ],
+        "position": [
+            982.50640869141,
+            338.28311157227,
+            -189.83268737793
+        ],
+        "viewangles": [
+            -8.6973505020142,
+            98.08162689209
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 21
+        },
+        "name": [
+            "Unnamed",
+            "Street"
+        ],
+        "position": [
+            -607.06195068359,
+            2311.0122070313,
+            69.565856933594
+        ],
+        "viewangles": [
+            -14.55410861969,
+            -59.725017547607
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Middle",
+        "grenade": {
+            "jump": true,
+            "run": 7
+        },
+        "name": [
+            "Unnamed",
+            "Pillar"
+        ],
+        "position": [
+            1431.0905761719,
+            -189.62683105469,
+            -23.968751907349
+        ],
+        "viewangles": [
+            -17.193990707397,
+            105.24465942383
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Left",
+        "grenade": {
+            "jump": true,
+            "run": 8
+        },
+        "name": [
+            "Unnamed",
+            "Pillar"
+        ],
+        "position": [
+            1431.0914306641,
+            -189.62934875488,
+            -23.968751907349
+        ],
+        "viewangles": [
+            -20.334465026855,
+            102.64414978027
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 7
+        },
+        "name": [
+            "Unnamed",
+            "Boost"
+        ],
+        "position": [
+            1423.7762451172,
+            -194.15997314453,
+            -23.96875
+        ],
+        "viewangles": [
+            -20.031993865967,
+            98.356773376465
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Middle / fakeduck",
+        "grenade": {
+            "jump": true,
+            "run": 1,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Rock"
+        ],
+        "position": [
+            212.30139160156,
+            -602.17565917969,
+            -7.1058654785156
+        ],
+        "viewangles": [
+            -21.863424301147,
+            87.12956237793
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 12,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Water"
+        ],
+        "position": [
+            116.55278778076,
+            1621.4836425781,
+            -29.03994178772
+        ],
+        "viewangles": [
+            -56.895362854004,
+            -87.354316711426
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Right",
+        "grenade": {
+            "jump": true,
+            "run": 7
+        },
+        "name": [
+            "Unnamed",
+            "Pillar"
+        ],
+        "position": [
+            1431.0905761719,
+            -189.62683105469,
+            -23.968751907349
+        ],
+        "viewangles": [
+            -15.12166595459,
+            105.71476745605
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 7
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            462.0048828125,
+            1262.4138183594,
+            -31.96875
+        ],
+        "viewangles": [
+            -11.828038215637,
+            12.671562194824
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "B Site",
+        "grenade": {
+            "delay": 1,
+            "jump": true,
+            "run": 20
+        },
+        "name": [
+            "Middle",
+            "Boost"
+        ],
+        "position": [
+            187.63006591797,
+            -391.91659545898,
+            0.03125
+        ],
+        "viewangles": [
+            -12.654480934143,
+            129.02923583984
+        ],
+        "weapon": "weapon_molotov"
+    }
+]

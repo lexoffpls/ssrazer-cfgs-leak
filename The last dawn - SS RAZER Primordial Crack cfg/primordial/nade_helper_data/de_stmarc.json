@@ -1,0 +1,1725 @@
+[
+    {
+        "name": [
+            "Truck",
+            "Car"
+        ],
+        "position": [
+            -6675.1821289063,
+            6977.44921875,
+            31.99080657959
+        ],
+        "viewangles": [
+            -23.974502563477,
+            -177.76802062988
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Fakeduck",
+        "name": [
+            "here",
+            "Plant"
+        ],
+        "position": [
+            -7998.1489257813,
+            6865.51953125,
+            33.03125
+        ],
+        "viewangles": [
+            -16.196417808533,
+            1.1712183952332
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "DUCK",
+        "duck": true,
+        "name": [
+            "here",
+            "Car"
+        ],
+        "position": [
+            -6841.1499023438,
+            6921.74609375,
+            70.466354370117
+        ],
+        "viewangles": [
+            -15.496530532837,
+            -176.5606842041
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": -90,
+            "run": 3
+        },
+        "name": [
+            "musorka",
+            "Trash"
+        ],
+        "position": [
+            -7056.9682617188,
+            6186.9375,
+            34.478729248047
+        ],
+        "viewangles": [
+            -13.461744308472,
+            109.450340271
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "barrels",
+            "Plant"
+        ],
+        "position": [
+            -8050.1689453125,
+            6769.390625,
+            33.158813476563
+        ],
+        "viewangles": [
+            -13.135005,
+            8.36465
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 12
+        },
+        "name": [
+            "ice",
+            "ice"
+        ],
+        "position": [
+            -6675.1303710938,
+            6977.4321289063,
+            32.99568939209
+        ],
+        "viewangles": [
+            -13.7496758,
+            -174.085556
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "backside",
+            "backside"
+        ],
+        "position": [
+            -8013.3955078125,
+            6843.3344726563,
+            33.03125
+        ],
+        "viewangles": [
+            -14.2349939,
+            -0.259923428
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 0
+        },
+        "name": [
+            "barrels",
+            "barrels"
+        ],
+        "position": [
+            -7461.8120117188,
+            7193.4594726563,
+            73.093811035156
+        ],
+        "viewangles": [
+            -0.93526566,
+            -25.5196571
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "UNSAFE",
+        "movement": {
+            "frames": [
+                [
+                    0,
+                    0,
+                    "FD",
+                    225
+                ],
+                1,
+                [
+                    0,
+                    0,
+                    "",
+                    337.5
+                ],
+                13,
+                [
+                    0,
+                    0,
+                    "R",
+                    450,
+                    225
+                ],
+                3,
+                [
+                    0,
+                    0,
+                    "J"
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "br",
+                    450,
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "BR",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "bLjrF",
+                    450,
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    450,
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "lf",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "LF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bLrF",
+                    450,
+                    225
+                ],
+                [
+                    0,
+                    0,
+                    "BlRf",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "bLrF",
+                    450,
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "BlRf",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "bLrF",
+                    450,
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "lf",
+                    450,
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    450,
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "BL",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bl",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "RF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Lr",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Lr",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Lr",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Lr",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "rf",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "F"
+                ],
+                9,
+                [
+                    0,
+                    0,
+                    "J"
+                ],
+                [
+                    0,
+                    0,
+                    "f",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "RF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Lr",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "br",
+                    450
+                ],
+                [
+                    0,
+                    0,
+                    "LF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "ljf",
+                    450,
+                    -225
+                ],
+                [
+                    0,
+                    0,
+                    "LF"
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    -450
+                ],
+                [
+                    0,
+                    0,
+                    "rf",
+                    450,
+                    -450
+                ],
+                [
+                    0,
+                    0,
+                    "BL",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Lr",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bF",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    450,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bF",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "rf"
+                ],
+                1,
+                [
+                    0,
+                    0,
+                    "LF",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Lr",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lf"
+                ],
+                [
+                    0,
+                    0,
+                    "LF",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "br"
+                ],
+                [
+                    0,
+                    0,
+                    "LF",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "lR",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "Bf",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bF",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "BLrf",
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    "bl"
+                ],
+                2,
+                [
+                    0.65999984741211,
+                    -0.13199996948242
+                ],
+                1,
+                [
+                    0.72599983215332,
+                    -0.19799995422363
+                ],
+                1,
+                [
+                    0.065999984741211,
+                    -0.065999984741211
+                ],
+                1,
+                [
+                    0.065999984741211
+                ],
+                16
+            ]
+        },
+        "name": [
+            "Unnamed",
+            "Truck"
+        ],
+        "position": [
+            -7321.1357421875,
+            7114.6220703125,
+            34.03125
+        ],
+        "viewangles": [
+            15.901327133179,
+            -30.481969833374
+        ],
+        "weapon": "weapon_knife"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "fakeduck",
+            "fakeduck"
+        ],
+        "position": [
+            -8175.8369140625,
+            6801.56640625,
+            41.198944091797
+        ],
+        "viewangles": [
+            -12.079442,
+            5.28069067
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 20
+        },
+        "name": [
+            "TRASH NADE",
+            "TRASH NADE"
+        ],
+        "position": [
+            -7065.5864257813,
+            6160.03125,
+            35.211822509766
+        ],
+        "viewangles": [
+            -8.799996,
+            108.825226
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "plant",
+            "Plant"
+        ],
+        "position": [
+            -6016.232421875,
+            7038.1748046875,
+            30.453750610352
+        ],
+        "viewangles": [
+            -14.57084274292,
+            -173.90728759766
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "duck": true,
+        "name": [
+            "CarThrow+DUCK",
+            "Van"
+        ],
+        "position": [
+            -6927.2568359375,
+            6855.0576171875,
+            30.702186584473
+        ],
+        "viewangles": [
+            -14.852452278137,
+            177.41123962402
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Fakelag-off",
+            "Van"
+        ],
+        "position": [
+            -6646.064453125,
+            6977.578125,
+            32.03125
+        ],
+        "viewangles": [
+            -13.855603218079,
+            -176.69049072266
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 15
+        },
+        "name": [
+            "Back of Truck",
+            "Back of Truck"
+        ],
+        "position": [
+            -6016.1469726563,
+            7038.2060546875,
+            30.458812713623
+        ],
+        "viewangles": [
+            -17.662363052368,
+            170.35961914063
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 5
+        },
+        "name": [
+            "Unnamed",
+            "Barrels"
+        ],
+        "position": [
+            -8026.337890625,
+            6854.1806640625,
+            32.03125
+        ],
+        "viewangles": [
+            -10.73494720459,
+            3.9872009754181
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "a",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 34,
+            "strength": 0.5
+        },
+        "name": [
+            "a",
+            "Van"
+        ],
+        "position": [
+            -6448.4384765625,
+            6320.9990234375,
+            40.03125
+        ],
+        "viewangles": [
+            -0.95621234178543,
+            158.23989868164
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 32
+        },
+        "name": [
+            "Unnamed",
+            "Barrel"
+        ],
+        "position": [
+            -6306.7646484375,
+            6196.955078125,
+            32.083473205566
+        ],
+        "viewangles": [
+            -0.81399977207184,
+            167.32778930664
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 46
+        },
+        "name": [
+            "Unnamed",
+            "Ice"
+        ],
+        "position": [
+            -6238.8520507813,
+            6111.298828125,
+            32.03125
+        ],
+        "viewangles": [
+            -0.74359893798828,
+            159.06677246094
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 12
+        },
+        "name": [
+            "Unnamed",
+            "Van"
+        ],
+        "position": [
+            -6241.46875,
+            6116.4077148438,
+            32.03125
+        ],
+        "viewangles": [
+            -0.93720006942749,
+            154.53900146484
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Trash 50 / 50"
+        ],
+        "position": [
+            -7046.1625976563,
+            6301.8071289063,
+            33.615188598633
+        ],
+        "viewangles": [
+            -11.990823745728,
+            111.93718719482
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -6981.0161132813,
+            6517.3447265625,
+            38.03125
+        ],
+        "viewangles": [
+            -22.756490707397,
+            158.94599914551
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "FULL",
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Trash"
+        ],
+        "position": [
+            -6991.3740234375,
+            6322.4677734375,
+            32.458236694336
+        ],
+        "viewangles": [
+            -10.981978416443,
+            116.31774902344
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Duck",
+        "duck": true,
+        "grenade": {
+            "run": 18
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -6831.740234375,
+            6928.23046875,
+            70.466354370117
+        ],
+        "viewangles": [
+            -12.302067756653,
+            -179.2119140625
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Duck",
+        "duck": true,
+        "grenade": {
+            "run": 15,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Ice"
+        ],
+        "position": [
+            -6835.58203125,
+            6921.923828125,
+            70.466354370117
+        ],
+        "viewangles": [
+            -18.356391906738,
+            -177.43295288086
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 7,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            -8014.5834960938,
+            6819.1591796875,
+            32.03125
+        ],
+        "viewangles": [
+            -14.994776725769,
+            5.2951149940491
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "strength": 0.5
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            -7385.0893554688,
+            7133.931640625,
+            32.629150390625
+        ],
+        "viewangles": [
+            -32.207836151123,
+            -23.381813049316
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 16
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -6016.1645507813,
+            7038.2045898438,
+            30.451560974121
+        ],
+        "viewangles": [
+            -20.908580780029,
+            -176.49160766602
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "unsafe",
+        "grenade": {
+            "delay": 22,
+            "jump": true,
+            "recovery_yaw": 0,
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -7003.2724609375,
+            6505.8701171875,
+            37.104385375977
+        ],
+        "viewangles": [
+            -27.160041809082,
+            156.72958374023
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "strength": 0.5
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            -7371.7744140625,
+            7136.6259765625,
+            32.736419677734
+        ],
+        "viewangles": [
+            -31.257350921631,
+            -23.085914611816
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 2,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Market [Up]"
+        ],
+        "position": [
+            -7199.5053710938,
+            6545.951171875,
+            38.614761352539
+        ],
+        "viewangles": [
+            -20.644546508789,
+            -5.9594707489014
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 2,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Market [Up]"
+        ],
+        "position": [
+            -7199.5444335938,
+            6545.970703125,
+            38.615592956543
+        ],
+        "viewangles": [
+            -20.486194610596,
+            -5.4844732284546
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_yaw": -120,
+            "run": 18
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -6113.4716796875,
+            6109.013671875,
+            32.664451599121
+        ],
+        "viewangles": [
+            0.1586686372757,
+            155.72850036621
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            -8515.447265625,
+            6640.0244140625,
+            61.246459960938
+        ],
+        "viewangles": [
+            -21.193643569946,
+            9.5255298614502
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "unsafe, 20HP",
+        "duck": true,
+        "grenade": {
+            "delay": 22,
+            "jump": true,
+            "recovery_yaw": 90,
+            "run": 1,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -6987.3188476563,
+            6446.5717773438,
+            32.234107971191
+        ],
+        "viewangles": [
+            -28.528444290161,
+            150.65673828125
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 8
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -5746.349609375,
+            6426.3310546875,
+            30.576049804688
+        ],
+        "viewangles": [
+            4.0844240188599,
+            176.65580749512
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "10hp",
+        "grenade": {
+            "delay": 5,
+            "jump": true,
+            "run": 16
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -5746.4267578125,
+            6426.3779296875,
+            30.569664001465
+        ],
+        "viewangles": [
+            0.44342511892319,
+            176.49099731445
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "35HP",
+        "grenade": {
+            "delay": 4,
+            "jump": true,
+            "run": 19
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -5660.9643554688,
+            6109.5708007813,
+            32.018081665039
+        ],
+        "viewangles": [
+            2.9976277351379,
+            169.14974975586
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "delay": 4,
+            "jump": true,
+            "run": 19
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -5660.9599609375,
+            6109.5708007813,
+            32.018081665039
+        ],
+        "viewangles": [
+            2.9976277351379,
+            169.14974975586
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 5
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -5759.2587890625,
+            5732.8994140625,
+            33.684181213379
+        ],
+        "viewangles": [
+            -21.432811737061,
+            154.23767089844
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 22
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -5687.6005859375,
+            7017.9892578125,
+            32.03125
+        ],
+        "viewangles": [
+            7.5389823913574,
+            -159.39289855957
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -8336.5830078125,
+            6911.8813476563,
+            46.723640441895
+        ],
+        "viewangles": [
+            -21.905773162842,
+            -14.721477508545
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "duck": true,
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -8010.0927734375,
+            6948.0581054688,
+            32.386028289795
+        ],
+        "viewangles": [
+            -23.934177398682,
+            -23.587434768677
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "duck": true,
+        "grenade": {
+            "run": 1,
+            "run_yaw": 180
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -7907.2973632813,
+            6942.3735351563,
+            32.03125
+        ],
+        "viewangles": [
+            -23.120178222656,
+            -22.597436904907
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "duck": true,
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            -7907.26171875,
+            6942.4560546875,
+            32.03125
+        ],
+        "viewangles": [
+            -16.141784667969,
+            1.3803602457047
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            -8336.4111328125,
+            6911.859375,
+            46.691963195801
+        ],
+        "viewangles": [
+            -17.80060005188,
+            2.6365571022034
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "LEG UNSAFE",
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "big truck",
+            "site "
+        ],
+        "position": [
+            -7351.02734375,
+            7104.1733398438,
+            34.03125
+        ],
+        "viewangles": [
+            -49.91117477417,
+            39.251419067383
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "unsafe",
+        "grenade": {
+            "run": 13
+        },
+        "name": [
+            "Unnamed",
+            "Boat"
+        ],
+        "position": [
+            -8533.4287109375,
+            6670.3740234375,
+            62.369995117188
+        ],
+        "viewangles": [
+            -26.5124168396,
+            -4.2397751808167
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 5
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -7491.7045898438,
+            7106.037109375,
+            34.03125
+        ],
+        "viewangles": [
+            -14.097822189331,
+            -4.0901627540588
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -7491.4326171875,
+            7105.9926757813,
+            34.03125
+        ],
+        "viewangles": [
+            -16.68497467041,
+            -5.8149676322937
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 25
+        },
+        "name": [
+            "Unnamed",
+            "Bost"
+        ],
+        "position": [
+            -5687.630859375,
+            7018.0092773438,
+            32.023406982422
+        ],
+        "viewangles": [
+            7.515419960022,
+            -159.26156616211
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -6589.908203125,
+            6949.130859375,
+            31.402839660645
+        ],
+        "viewangles": [
+            -12.407867431641,
+            -179.0198059082
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 38
+        },
+        "name": [
+            "Unnamed",
+            "Car"
+        ],
+        "position": [
+            -5926.1420898438,
+            7044.3403320313,
+            32.03125
+        ],
+        "viewangles": [
+            -20.908580780029,
+            -176.49160766602
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "very unsafe",
+        "grenade": {
+            "jump": true,
+            "run": 26
+        },
+        "name": [
+            "Unnamed",
+            "Market [UP]"
+        ],
+        "position": [
+            -8120.8955078125,
+            6763.5830078125,
+            36.612957000732
+        ],
+        "viewangles": [
+            -7.8836870193481,
+            -11.589489936829
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "bait / dangerous",
+        "duck": true,
+        "grenade": {
+            "strength": 0.5
+        },
+        "name": [
+            "Plant",
+            "Truck"
+        ],
+        "position": [
+            -6841.1420898438,
+            6921.7578125,
+            70.466369628906
+        ],
+        "viewangles": [
+            -35.743339538574,
+            155.63558959961
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "run": 15
+        },
+        "name": [
+            "Car",
+            "Truck"
+        ],
+        "position": [
+            -5898.6806640625,
+            7011.6357421875,
+            31.940063476563
+        ],
+        "viewangles": [
+            -14.445176124573,
+            175.73782348633
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "bait / safe",
+        "duck": true,
+        "grenade": {
+            "strength": 0.5
+        },
+        "name": [
+            "Bomb Site",
+            "Truck"
+        ],
+        "position": [
+            -6844.3515625,
+            6909.3823242188,
+            70.466354370117
+        ],
+        "viewangles": [
+            -26.636695861816,
+            154.51063537598
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "strength": 0.5
+        },
+        "name": [
+            "Truck ",
+            "Barrels [R]"
+        ],
+        "position": [
+            -7360.421875,
+            7157.2514648438,
+            33.583648681641
+        ],
+        "viewangles": [
+            -26.344089508057,
+            -37.835201263428
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "unsafe",
+        "grenade": {
+            "delay": 7,
+            "jump": true,
+            "recovery_jump": true,
+            "run": 22,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "AWP Spot [Hide Shots]"
+        ],
+        "position": [
+            -7054.5390625,
+            6160.046875,
+            34.100341796875
+        ],
+        "viewangles": [
+            -12.200018882751,
+            162.06132507324
+        ],
+        "weapon": "weapon_molotov"
+    }
+]

@@ -1,0 +1,5479 @@
+[
+    {
+        "grenade": {
+            "run": 32
+        },
+        "name": [
+            "Back Way",
+            "Trash"
+        ],
+        "position": [
+            1013.5485229492,
+            -667.89953613281,
+            -159.96875
+        ],
+        "viewangles": [
+            -4.2577028274536,
+            97.964347839355
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "70HP",
+        "grenade": {
+            "run": 13
+        },
+        "name": [
+            "here",
+            "Trash"
+        ],
+        "position": [
+            1013.5485229492,
+            -667.89953613281,
+            -158.96875
+        ],
+        "viewangles": [
+            -2.577028274536,
+            97.964347839355
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "here",
+            "Paper"
+        ],
+        "position": [
+            981.73223876953,
+            -266.83871459961,
+            -158.96875
+        ],
+        "viewangles": [
+            -6.9504432678223,
+            45.657255554199
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "corner",
+        "grenade": {
+            "fov": 5.12,
+            "run": 25
+        },
+        "name": [
+            "MID",
+            "MID"
+        ],
+        "position": [
+            -316.76641845703,
+            231.14228820801,
+            -159.96875
+        ],
+        "viewangles": [
+            -5.8937301635742,
+            -24.006732940674
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Fakeduck",
+        "grenade": {
+            "run": 22
+        },
+        "name": [
+            "1w",
+            "Soda"
+        ],
+        "position": [
+            -134.96875,
+            -1124.96875,
+            -222.96875
+        ],
+        "viewangles": [
+            -11.9899912,
+            67.50125
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Fakeduck",
+        "grenade": {
+            "run": 22
+        },
+        "name": [
+            "1w",
+            "Soda"
+        ],
+        "position": [
+            -134.96875,
+            -1124.96875,
+            -222.96875
+        ],
+        "viewangles": [
+            -11.9899912,
+            67.50125
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Right",
+        "grenade": {
+            "run": 15
+        },
+        "name": [
+            "hall",
+            "T Start"
+        ],
+        "position": [
+            1277.9421386719,
+            984.79644775391,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.7348766326904,
+            -53.884750366211
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Left",
+        "grenade": {
+            "run": 11
+        },
+        "name": [
+            "hall",
+            "T Start"
+        ],
+        "position": [
+            1277.9421386719,
+            984.79644775391,
+            -159.96875
+        ],
+        "viewangles": [
+            -1.2698873281479,
+            -48.251136779785
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 16
+        },
+        "name": [
+            "MainHall",
+            "Kitchen"
+        ],
+        "position": [
+            712.58758544922,
+            -573.98486328125,
+            -159.96875
+        ],
+        "viewangles": [
+            -1.1751308441162,
+            48.085620880127
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "High",
+            "BackWay"
+        ],
+        "position": [
+            536.92932128906,
+            -858.02874755859,
+            -223.96875
+        ],
+        "viewangles": [
+            -6.977719783783,
+            -120.34844207764
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "High",
+            "BackWay"
+        ],
+        "position": [
+            536.92358398438,
+            -858.03839111328,
+            -223.96875
+        ],
+        "viewangles": [
+            -6.977719783783,
+            -120.34844207764
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "Sidehall",
+            "T door"
+        ],
+        "position": [
+            1217.1575927734,
+            900.98553466797,
+            -159.96875
+        ],
+        "viewangles": [
+            2.2882056236267,
+            -13.104189872742
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "BackWay",
+            "BathRoom"
+        ],
+        "position": [
+            1271.9500732422,
+            -1161.7553710938,
+            -255.17031860352
+        ],
+        "viewangles": [
+            -15.369999885559,
+            125.36259460449
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "BackWay",
+            "BatchRoom"
+        ],
+        "position": [
+            1271.953125,
+            -1161.7614746094,
+            -255.17068481445
+        ],
+        "viewangles": [
+            -19.370000839233,
+            125.36259460449
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "Main",
+            "FakeDuck"
+        ],
+        "position": [
+            790.22082519531,
+            -446.10162353516,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.1630387306213,
+            -50.607627868652
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 5
+        },
+        "name": [
+            "Main",
+            "FakeDuck"
+        ],
+        "position": [
+            790.22094726563,
+            -446.10153198242,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.1630387306213,
+            -50.607627868652
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "BackWay",
+            "NearlyTstart"
+        ],
+        "position": [
+            723.97467041016,
+            -1454.0612792969,
+            -279.96875
+        ],
+        "viewangles": [
+            -17,
+            76.531814575195
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "BackWay",
+            "NearlyTstart"
+        ],
+        "position": [
+            723.97137451172,
+            -1454.0473632813,
+            -279.96875
+        ],
+        "viewangles": [
+            -20,
+            76.531814575195
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": -90,
+            "run": 1
+        },
+        "name": [
+            "SideHall",
+            "BathRoom"
+        ],
+        "position": [
+            51.209812164307,
+            -109.73165130615,
+            -159.96875
+        ],
+        "viewangles": [
+            -4.9268360137939,
+            39.472019195557
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": -90,
+            "run": 1
+        },
+        "name": [
+            "SideHall",
+            "BathRoom"
+        ],
+        "position": [
+            51.209812164307,
+            -109.73165130615,
+            -159.96875
+        ],
+        "viewangles": [
+            -4.9268360137939,
+            39.472019195557
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 2
+        },
+        "name": [
+            "Stairwell",
+            "SideHall"
+        ],
+        "position": [
+            -82.069557189941,
+            -1022.3259887695,
+            -223.96875
+        ],
+        "viewangles": [
+            -12.822058677673,
+            69.633491516113
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Stairwell",
+            "SideHall"
+        ],
+        "position": [
+            -82.074378967285,
+            -1022.3026123047,
+            -223.96875
+        ],
+        "viewangles": [
+            -14.170000076294,
+            68.25
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "LEFT",
+        "name": [
+            "Starirwell",
+            "Side hall"
+        ],
+        "position": [
+            -160.04119873047,
+            -834.10113525391,
+            -279.96875
+        ],
+        "viewangles": [
+            -19.410285949707,
+            35.061935424805
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "53HP",
+        "grenade": {
+            "run": 33
+        },
+        "name": [
+            "BackWay",
+            "Wall"
+        ],
+        "position": [
+            774.01800537109,
+            -1502.7927246094,
+            -282.97509765625
+        ],
+        "viewangles": [
+            -21.5,
+            80
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 40
+        },
+        "name": [
+            "BackWay",
+            "Wall"
+        ],
+        "position": [
+            774.00653076172,
+            -1502.7663574219,
+            -282.96853637695
+        ],
+        "viewangles": [
+            -21.5,
+            80
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 8
+        },
+        "name": [
+            "MainDoor",
+            "Paper"
+        ],
+        "position": [
+            981.72119140625,
+            -266.85000610352,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.9504432678223,
+            45.657257080078
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "MainHall",
+            "Vending"
+        ],
+        "position": [
+            311.29696655273,
+            18.017518997192,
+            -159.96875
+        ],
+        "viewangles": [
+            -7.2399997711182,
+            28.979999542236
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "MainHall",
+            "Vending"
+        ],
+        "position": [
+            311.29696655273,
+            18.017518997192,
+            -159.96875
+        ],
+        "viewangles": [
+            -7.2399997711182,
+            28.979999542236
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "StorageRoom",
+            "Kitchen"
+        ],
+        "position": [
+            1203.9895019531,
+            -80.038909912109,
+            -159.96875
+        ],
+        "viewangles": [
+            -0.88042289018631,
+            -47.736473083496
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "StorageRoom",
+            "Kitchen"
+        ],
+        "position": [
+            1203.9903564453,
+            -80.039825439453,
+            -159.96875
+        ],
+        "viewangles": [
+            -0.88042289018631,
+            -47.736473083496
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Door / Boost",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 89,
+            "run": 2
+        },
+        "name": [
+            "Box",
+            "Side Hall"
+        ],
+        "position": [
+            512.29077148438,
+            18.009111404419,
+            -111.96875
+        ],
+        "viewangles": [
+            3.5,
+            68.750419616699
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Boost",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 89,
+            "run": 2
+        },
+        "name": [
+            "Box",
+            "Side Hall"
+        ],
+        "position": [
+            512.29559326172,
+            18.021331787109,
+            -111.96875
+        ],
+        "viewangles": [
+            3.5,
+            68.750419616699
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "Box",
+            "SideHall"
+        ],
+        "position": [
+            -19.460277557373,
+            -849.62213134766,
+            -215.96875
+        ],
+        "viewangles": [
+            -14.807096481323,
+            69.730690002441
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Box",
+            "SideHall"
+        ],
+        "position": [
+            -19.460819244385,
+            -849.55285644531,
+            -215.96875
+        ],
+        "viewangles": [
+            -11.703845024109,
+            68.608131408691
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "lastone",
+            "Garage"
+        ],
+        "position": [
+            -249.95950317383,
+            -781.36975097656,
+            -279.96875
+        ],
+        "viewangles": [
+            -1.1388405561447,
+            -151.22862243652
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Main",
+            "FakeDuck"
+        ],
+        "position": [
+            565.40911865234,
+            -444.45550537109,
+            -159.96875
+        ],
+        "viewangles": [
+            -5.3589444160461,
+            179.6135559082
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 2
+        },
+        "name": [
+            "Main",
+            "Fakeduck"
+        ],
+        "position": [
+            565.34429931641,
+            -444.45523071289,
+            -159.96875
+        ],
+        "viewangles": [
+            -5.3589324951172,
+            179.64431762695
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Destroy Left GLASS",
+        "name": [
+            "Unnamed",
+            "FD C"
+        ],
+        "position": [
+            730.77423095703,
+            -418.03964233398,
+            -159.96875
+        ],
+        "viewangles": [
+            -4.2590866088867,
+            -51.496223449707
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Destroy LEFT Glass",
+        "name": [
+            "Unnamed",
+            "FD C"
+        ],
+        "position": [
+            730.79083251953,
+            -418.04904174805,
+            -159.96875
+        ],
+        "viewangles": [
+            -4.6726837158203,
+            -51.500606536865
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Picture",
+        "grenade": {
+            "run": 1,
+            "run_speed": true
+        },
+        "name": [
+            "Back Courtyard",
+            "conner"
+        ],
+        "position": [
+            1271.9415283203,
+            -1161.7669677734,
+            -255.17471313477
+        ],
+        "viewangles": [
+            -14.4936170578,
+            122.80309295654
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "PICTURE",
+        "name": [
+            "Back Courtyard",
+            "conner"
+        ],
+        "position": [
+            1271.9500732422,
+            -1161.7517089844,
+            -255.16987609863
+        ],
+        "viewangles": [
+            -20.037616729736,
+            125.26713562012
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Safe",
+        "grenade": {
+            "run": 29
+        },
+        "name": [
+            "Unnamed",
+            "Main Hall"
+        ],
+        "position": [
+            -591.01654052734,
+            -599.427734375,
+            -292.65649414063
+        ],
+        "viewangles": [
+            -21.383979797363,
+            7.576503276825
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Safe",
+        "grenade": {
+            "run": 29
+        },
+        "name": [
+            "Unnamed",
+            "Main Hall"
+        ],
+        "position": [
+            -591.01654052734,
+            -599.427734375,
+            -292.65649414063
+        ],
+        "viewangles": [
+            -21.383979797363,
+            7.576503276825
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 16
+        },
+        "name": [
+            "MainHall",
+            "Kitchen"
+        ],
+        "position": [
+            712.58758544922,
+            -573.98486328125,
+            -159.96875
+        ],
+        "viewangles": [
+            -1.1751308441162,
+            48.085620880127
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "PUSH",
+        "name": [
+            "kitchen",
+            "main"
+        ],
+        "position": [
+            1436.3914794922,
+            -302.28790283203,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.7096095085144,
+            136.76147460938
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "PUSH 53HP",
+        "name": [
+            "kitchen",
+            "main"
+        ],
+        "position": [
+            1436.3914794922,
+            -302.28790283203,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.7096095085144,
+            136.76147460938
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Team Help",
+        "name": [
+            "book",
+            "LegitAA"
+        ],
+        "position": [
+            1782.1188964844,
+            145.75827026367,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.1859393119812,
+            -170.10430908203
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "name": [
+            "T",
+            "push"
+        ],
+        "position": [
+            1328.0222167969,
+            751.96765136719,
+            -159.96875
+        ],
+        "viewangles": [
+            -11.415349960327,
+            27.713466644287
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "55HP",
+        "name": [
+            "T",
+            "PUSH"
+        ],
+        "position": [
+            1328.0272216797,
+            751.97082519531,
+            -159.96875
+        ],
+        "viewangles": [
+            1.6395177841187,
+            27.184049606323
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "u lose all money!",
+        "name": [
+            "T",
+            "Hostage"
+        ],
+        "position": [
+            1739.1672363281,
+            702.06524658203,
+            -159.96875
+        ],
+        "viewangles": [
+            -0.75895142555237,
+            117.45697784424
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 9,
+            "run_yaw": 90
+        },
+        "name": [
+            "T",
+            "Door"
+        ],
+        "position": [
+            1597.4178466797,
+            192.22802734375,
+            -159.96875
+        ],
+        "viewangles": [
+            1.3965314626694,
+            87.951293945313
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 9,
+            "run_yaw": 90
+        },
+        "name": [
+            "T",
+            "Door"
+        ],
+        "position": [
+            1597.4178466797,
+            192.22802734375,
+            -159.96875
+        ],
+        "viewangles": [
+            1.3965314626694,
+            87.951293945313
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "PICTURE",
+        "grenade": {
+            "recovery_yaw": -36,
+            "run": 9
+        },
+        "name": [
+            "b1g",
+            "oneway"
+        ],
+        "position": [
+            1818.4556884766,
+            31.198822021484,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.7932252883911,
+            144.6061706543
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "PICTURE",
+        "grenade": {
+            "recovery_yaw": -36,
+            "run": 9
+        },
+        "name": [
+            "b1g",
+            "oneway"
+        ],
+        "position": [
+            1818.4556884766,
+            31.198822021484,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.7932252883911,
+            144.6061706543
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 9
+        },
+        "name": [
+            "b1g",
+            "paper"
+        ],
+        "position": [
+            2039.1156005859,
+            -199.3596496582,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.1272075176239,
+            -141.3235168457
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "51HP",
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 9
+        },
+        "name": [
+            "b1g",
+            "paper"
+        ],
+        "position": [
+            2039.1156005859,
+            -199.3596496582,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.1272075176239,
+            -141.3235168457
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "kitchen",
+            "Corner"
+        ],
+        "position": [
+            1603.7254638672,
+            -501.17645263672,
+            -159.96875
+        ],
+        "viewangles": [
+            -1.7819862365723,
+            38.628517150879
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "kitchen",
+            "Corner"
+        ],
+        "position": [
+            1589.9869384766,
+            -507.99111938477,
+            -159.96875
+        ],
+        "viewangles": [
+            -7.3655695915222,
+            23.976272583008
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Beware of hostages",
+        "grenade": {
+            "recovery_yaw": -90,
+            "run": 9
+        },
+        "name": [
+            "sidehall",
+            "Long door"
+        ],
+        "position": [
+            870.77062988281,
+            981.10192871094,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.7950930595398,
+            -13.135277748108
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 90,
+            "run": 9
+        },
+        "name": [
+            "side",
+            "BathRoom"
+        ],
+        "position": [
+            97.490135192871,
+            -332.74237060547,
+            -159.96875
+        ],
+        "viewangles": [
+            -7.5898323059082,
+            -40.821090698242
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "50HP",
+        "grenade": {
+            "recovery_yaw": 90,
+            "run": 9
+        },
+        "name": [
+            "side",
+            "BathRoom"
+        ],
+        "position": [
+            97.490135192871,
+            -332.74237060547,
+            -159.96875
+        ],
+        "viewangles": [
+            -7.5898323059082,
+            -40.821090698242
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "LegitAA",
+            "Door"
+        ],
+        "position": [
+            1131.1260986328,
+            103.63105773926,
+            -159.96875
+        ],
+        "viewangles": [
+            0.57933688163757,
+            -129.5682220459
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "56HP",
+        "name": [
+            "LegitAA",
+            "door"
+        ],
+        "position": [
+            1131.1153564453,
+            103.62297058105,
+            -159.96875
+        ],
+        "viewangles": [
+            0.59180563688278,
+            -129.42172241211
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "T",
+            "door"
+        ],
+        "position": [
+            1231.9375,
+            364.0026550293,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.2942340373993,
+            -121.86632537842
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "53hp",
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 3
+        },
+        "name": [
+            "T",
+            "door"
+        ],
+        "position": [
+            1231.8400878906,
+            364.12786865234,
+            -159.96875
+        ],
+        "viewangles": [
+            -1.5029181241989,
+            -122.61701965332
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "50HP",
+        "grenade": {
+            "run": 6,
+            "run_speed": true
+        },
+        "name": [
+            "noob",
+            "back DOOR"
+        ],
+        "position": [
+            1184.0213623047,
+            559.97863769531,
+            -159.96875
+        ],
+        "viewangles": [
+            3.3848092556,
+            -56.396499633789
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "name": [
+            "T",
+            "Door"
+        ],
+        "position": [
+            1739.1634521484,
+            702.07568359375,
+            -159.96875
+        ],
+        "viewangles": [
+            -4.1510033607483,
+            167.39991760254
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Saving Team",
+        "name": [
+            "T",
+            "LegitAA Spot"
+        ],
+        "position": [
+            1635.8754882813,
+            177.7296295166,
+            -159.96875
+        ],
+        "viewangles": [
+            -9.2754259109497,
+            179.66110229492
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "description": "Teamhelp",
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "LegitAA"
+        ],
+        "position": [
+            1712.7351074219,
+            692.21398925781,
+            -159.96875
+        ],
+        "viewangles": [
+            0.21997134387493,
+            -130.01876831055
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 180,
+            "run": 26,
+            "run_yaw": -25
+        },
+        "name": [
+            "Unnamed",
+            "Long"
+        ],
+        "position": [
+            1451.8896484375,
+            732.58282470703,
+            -159.96875
+        ],
+        "viewangles": [
+            -8.4479970932007,
+            144.71601867676
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "PREDICT, UNSAFE",
+        "grenade": {
+            "recovery_yaw": 179,
+            "run": 14,
+            "run_yaw": -66
+        },
+        "name": [
+            "Unnamed",
+            "Long"
+        ],
+        "position": [
+            1423.8890380859,
+            788.22875976563,
+            -159.96875
+        ],
+        "viewangles": [
+            -7.1499991416931,
+            168.2999420166
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "Molly 1W Boost 2",
+            "Long Boost"
+        ],
+        "position": [
+            594.03125,
+            799.52301025391,
+            -158.96875
+        ],
+        "viewangles": [
+            -2.29785585,
+            31.7013645
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "LEFT",
+        "grenade": {
+            "recovery_yaw": 90
+        },
+        "name": [
+            "Molly 1W Left Corner",
+            "Corner L"
+        ],
+        "position": [
+            645.40991210938,
+            -310.60342407227,
+            -158.96875
+        ],
+        "viewangles": [
+            -2.74013233,
+            -50.03606
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 10
+        },
+        "name": [
+            "Molly 1W Paint",
+            "Picture"
+        ],
+        "position": [
+            782.01635742188,
+            -912.20220947266,
+            -158.96875
+        ],
+        "viewangles": [
+            -8.607073,
+            41.3128242
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Bagged1w",
+            "Picture"
+        ],
+        "position": [
+            985.64581298828,
+            -860.34680175781,
+            -158.96875
+        ],
+        "viewangles": [
+            2.121792,
+            113.567764
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 16
+        },
+        "name": [
+            "Corner",
+            "Corner"
+        ],
+        "position": [
+            1086.5325927734,
+            -942.69866943359,
+            -158.96875
+        ],
+        "viewangles": [
+            -2.46397,
+            104.292511
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "main",
+            "Paper door"
+        ],
+        "position": [
+            1053.8039550781,
+            -442.86233520508,
+            -159.96875
+        ],
+        "viewangles": [
+            -8.6525001525879,
+            136.62800598145
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "main",
+            "Paper door"
+        ],
+        "position": [
+            1053.9686279297,
+            -443.01071166992,
+            -159.96875
+        ],
+        "viewangles": [
+            9.8365840911865,
+            136.40644836426
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 9
+        },
+        "name": [
+            "T",
+            "Main door"
+        ],
+        "position": [
+            1317.8188476563,
+            306.86486816406,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.7627754211426,
+            -131.7048034668
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "53HP",
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "T",
+            "Main door"
+        ],
+        "position": [
+            1309.3596191406,
+            312.70300292969,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.2769417762756,
+            -130.39497375488
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Deep",
+        "grenade": {
+            "delay": 8,
+            "run": 8
+        },
+        "name": [
+            "main",
+            "Wall"
+        ],
+        "position": [
+            958.26391601563,
+            -500.30200195313,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.1024045944214,
+            89.983688354492
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Peek",
+        "name": [
+            "kitchen",
+            "Paper"
+        ],
+        "position": [
+            1480.5554199219,
+            -481.50427246094,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.6184129714966,
+            117.03526306152
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Anti-peek",
+        "duck": true,
+        "name": [
+            "kitchen",
+            "Paper"
+        ],
+        "position": [
+            1329.6568603516,
+            -519.01654052734,
+            -115.96875
+        ],
+        "viewangles": [
+            2.6717047691345,
+            55.000774383545
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "57HP",
+        "grenade": {
+            "delay": 2,
+            "recovery_yaw": 180,
+            "run": 2
+        },
+        "name": [
+            "T",
+            "Paper door"
+        ],
+        "position": [
+            1597.3489990234,
+            192.23764038086,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.884295463562,
+            -169.43417358398
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "58HP",
+        "name": [
+            "T",
+            "Paper door"
+        ],
+        "position": [
+            1309.3488769531,
+            312.70343017578,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.7039937973022,
+            -144.68276977539
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 12
+        },
+        "name": [
+            "Unnamed",
+            "T door / T start"
+        ],
+        "position": [
+            1002.0337524414,
+            1001.8805541992,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.2867712974548,
+            -19.772123336792
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "broke right + t RIGHT GLASES",
+        "grenade": {
+            "run": 22
+        },
+        "name": [
+            "Unnamed",
+            "Sofa"
+        ],
+        "position": [
+            1053.1860351563,
+            880.0966796875,
+            -159.96875
+        ],
+        "viewangles": [
+            -8.6106042861938,
+            30.97190284729
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "movement": {
+            "frames": [
+                16,
+                [
+                    0.088000000000001
+                ],
+                [
+                    0,
+                    0.131996
+                ],
+                [
+                    -0.264,
+                    0.351997
+                ],
+                [
+                    -0.264,
+                    0.528008
+                ],
+                [
+                    -0.308,
+                    0.396011
+                ],
+                [
+                    -0.264,
+                    0.395996
+                ],
+                [
+                    -0.396,
+                    0.396004
+                ],
+                [
+                    -0.528,
+                    0.528008
+                ],
+                [
+                    -0.748,
+                    1.276001,
+                    "F"
+                ],
+                [
+                    -1.056,
+                    0.923996
+                ],
+                [
+                    -0.968,
+                    0.616005
+                ],
+                [
+                    -0.88,
+                    0.484009
+                ],
+                [
+                    -1.276,
+                    0.748009
+                ],
+                [
+                    -0.66,
+                    0.35200500000001
+                ],
+                [
+                    -1.1,
+                    0.528008
+                ],
+                [
+                    -0.484,
+                    0.263992
+                ],
+                [
+                    -0.44,
+                    0.131996
+                ],
+                [
+                    -0.66,
+                    0.263992
+                ],
+                [
+                    -0.748,
+                    0.175995
+                ],
+                [
+                    -0.308,
+                    0.043998999999999
+                ],
+                [
+                    -0.748,
+                    0.087997000000001
+                ],
+                [
+                    -0.572,
+                    0.043998999999999
+                ],
+                [
+                    -0.528
+                ],
+                [
+                    -0.484,
+                    -0.043998999999999
+                ],
+                [
+                    -0.484
+                ],
+                [
+                    -0.44,
+                    -0.087997000000001
+                ],
+                [
+                    -0.352,
+                    -0.043998999999999
+                ],
+                [
+                    -0.22,
+                    -0.087997000000001
+                ],
+                [
+                    -0.176
+                ],
+                [
+                    -0.484,
+                    -0.131996
+                ],
+                [
+                    -0.44,
+                    -0.131996
+                ],
+                [
+                    -0.396,
+                    -0.087997000000001
+                ],
+                [
+                    -0.616,
+                    -0.175995
+                ],
+                [
+                    -0.66,
+                    -0.219994
+                ],
+                [
+                    -0.792,
+                    -0.263992
+                ],
+                [
+                    -1.364,
+                    -0.484009
+                ],
+                [
+                    -0.748,
+                    -0.264008,
+                    "J",
+                    34.77640914917,
+                    448.65420532227
+                ],
+                [
+                    -1.496,
+                    -0.616013,
+                    "j",
+                    24.803218841553,
+                    -449.31591796875
+                ],
+                [
+                    -1.188,
+                    -0.35200500000001,
+                    "",
+                    34.131160736084,
+                    448.70376586914
+                ],
+                [
+                    -1.408,
+                    -0.131996,
+                    "",
+                    20.603982925415,
+                    -449.52807617188
+                ],
+                [
+                    -2.2,
+                    0.395996,
+                    "",
+                    31.666746139526,
+                    448.88442993164
+                ],
+                [
+                    -1.32,
+                    0.528008,
+                    "",
+                    19.600528717041,
+                    -449.57293701172
+                ],
+                [
+                    -1.012,
+                    0.484009,
+                    "",
+                    31.222143173218,
+                    448.91555786133
+                ],
+                [
+                    -0.924,
+                    0.44000200000001,
+                    "",
+                    26.500894546509,
+                    -449.21899414063
+                ],
+                [
+                    -0.352,
+                    0.220001,
+                    "",
+                    33.4983253479,
+                    448.75146484375
+                ],
+                [
+                    -1.012,
+                    0.70401,
+                    "",
+                    25.527008056641,
+                    -449.27536010742
+                ],
+                [
+                    -0.352,
+                    0.30800600000001,
+                    "",
+                    33.034435272217,
+                    448.7858581543
+                ],
+                [
+                    -0.528,
+                    0.44000200000001,
+                    "",
+                    23.188129425049,
+                    -449.40216064453
+                ],
+                [
+                    -0.132,
+                    0.131996,
+                    "",
+                    28.197473526001,
+                    449.11569213867
+                ],
+                [
+                    -0.176,
+                    0.131996,
+                    "",
+                    24.906364440918,
+                    -449.31021118164
+                ],
+                [
+                    -0.043999999999997,
+                    0,
+                    "",
+                    26.97265625,
+                    449.19091796875
+                ],
+                [
+                    -0.043999999999997,
+                    0.043998999999999,
+                    "",
+                    25.147830963135,
+                    -449.29678344727
+                ],
+                [
+                    -0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    25.83324432373,
+                    449.25787353516
+                ],
+                [
+                    -0.132,
+                    0.263992,
+                    "",
+                    19.958629608154,
+                    -449.55715942383
+                ],
+                [
+                    -0.132,
+                    0.307999,
+                    "",
+                    29.097938537598,
+                    449.05825805664
+                ],
+                [
+                    -0.176,
+                    0.396011,
+                    "",
+                    25.426204681396,
+                    -449.28112792969
+                ],
+                [
+                    -0.22,
+                    0.616013,
+                    "",
+                    28.931100845337,
+                    449.06903076172
+                ],
+                [
+                    -0.132,
+                    0.396011,
+                    "",
+                    25.445049285889,
+                    -449.28002929688
+                ],
+                [
+                    -0.22,
+                    0.572006,
+                    "",
+                    29.104871749878,
+                    449.05780029297
+                ],
+                [
+                    -0.176,
+                    0.528008,
+                    "",
+                    18.304985046387,
+                    -449.62756347656
+                ],
+                [
+                    -0.132,
+                    0.484009,
+                    "",
+                    28.947845458984,
+                    449.06796264648
+                ],
+                [
+                    0,
+                    0.175995,
+                    "",
+                    23.416959762573,
+                    -449.39031982422
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    26.309715270996,
+                    449.23022460938
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    17.322271347046,
+                    -449.66647338867
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    30.733871459961,
+                    448.94924926758
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    21.160409927368,
+                    -449.50219726563
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    25.602806091309,
+                    449.27108764648
+                ],
+                [
+                    0.308,
+                    0.528008,
+                    "",
+                    19.921634674072,
+                    -449.55880737305
+                ],
+                [
+                    0.22,
+                    0.263992,
+                    "",
+                    26.945320129395,
+                    449.19253540039
+                ],
+                [
+                    0.308,
+                    0.44001,
+                    "",
+                    17.315385818481,
+                    -449.66674804688
+                ],
+                [
+                    0.352,
+                    0.528015,
+                    "",
+                    26.917629241943,
+                    449.19421386719
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    23.945989608765,
+                    -449.36242675781
+                ],
+                [
+                    0.088000000000001,
+                    0.175995,
+                    "D",
+                    30.344863891602,
+                    448.97570800781
+                ],
+                [
+                    0.132,
+                    0.395996,
+                    "",
+                    20.391902923584,
+                    -449.53771972656
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    26.409851074219,
+                    449.22436523438
+                ],
+                [
+                    0.043999999999997,
+                    0.131996,
+                    "",
+                    21.977453231812,
+                    -449.46298217773
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    25.235958099365,
+                    449.29180908203
+                ],
+                [
+                    0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    22.529848098755,
+                    -449.43566894531
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    24.064342498779,
+                    449.35610961914
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    15.583207130432,
+                    -449.73010253906
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    30.757183074951,
+                    448.94766235352
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    16.486005783081,
+                    -449.69790649414
+                ]
+            ]
+        },
+        "name": [
+            "middle",
+            "Bypass one-way"
+        ],
+        "position": [
+            1028.4163818359,
+            -559.59161376953,
+            -159.96875
+        ],
+        "viewangles": [
+            5.1308646202087,
+            79.476287841797
+        ],
+        "weapon": "weapon_awp"
+    },
+    {
+        "description": "Deep",
+        "grenade": {
+            "delay": 8,
+            "recovery_yaw": 180,
+            "run": 8
+        },
+        "name": [
+            "middle",
+            "LegitAA"
+        ],
+        "position": [
+            954.78979492188,
+            -638.04302978516,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.7646181583405,
+            89.917900085449
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Deep",
+        "grenade": {
+            "delay": 8,
+            "recovery_yaw": 180,
+            "run": 8
+        },
+        "name": [
+            "middle",
+            "Corner"
+        ],
+        "position": [
+            954.79516601563,
+            -638.04290771484,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.8253726959229,
+            90.341239929199
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "R",
+        "grenade": {
+            "delay": 10,
+            "recovery_yaw": 180,
+            "run": 10
+        },
+        "name": [
+            "sidehall",
+            "Door"
+        ],
+        "position": [
+            912.28179931641,
+            880.13653564453,
+            -159.96875
+        ],
+        "viewangles": [
+            -13.024290084839,
+            39.719287872314
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Oneway",
+        "grenade": {
+            "delay": 10,
+            "recovery_yaw": 180,
+            "run": 10
+        },
+        "name": [
+            "sidehall",
+            "Door"
+        ],
+        "position": [
+            912.28179931641,
+            880.13653564453,
+            -159.96875
+        ],
+        "viewangles": [
+            -13.024290084839,
+            39.719287872314
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "L",
+        "grenade": {
+            "delay": 10,
+            "recovery_yaw": 180,
+            "run": 10
+        },
+        "name": [
+            "sidehall",
+            "Door"
+        ],
+        "position": [
+            912.24438476563,
+            880.13208007813,
+            -159.96875
+        ],
+        "viewangles": [
+            -12.007638931274,
+            38.304138183594
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "delay": 2,
+            "recovery_yaw": 180,
+            "run": 2
+        },
+        "name": [
+            "T",
+            "Paper door"
+        ],
+        "position": [
+            1351.4152832031,
+            200.07827758789,
+            -159.96875
+        ],
+        "viewangles": [
+            -4.6604075431824,
+            -153.7202911377
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "delay": 2,
+            "recovery_yaw": 180,
+            "run": 2
+        },
+        "name": [
+            "T",
+            "Main door"
+        ],
+        "position": [
+            1351.2513427734,
+            200.06274414063,
+            -159.96875
+        ],
+        "viewangles": [
+            -5.0246562957764,
+            -167.39962768555
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "movement": {
+            "frames": [
+                16,
+                [
+                    0.088000000000001
+                ],
+                [
+                    0,
+                    0.131996
+                ],
+                [
+                    -0.264,
+                    0.351997
+                ],
+                [
+                    -0.264,
+                    0.528008
+                ],
+                [
+                    -0.308,
+                    0.396011
+                ],
+                [
+                    -0.264,
+                    0.395996
+                ],
+                [
+                    -0.396,
+                    0.396004
+                ],
+                [
+                    -0.528,
+                    0.528008
+                ],
+                [
+                    -0.748,
+                    1.276001,
+                    "F"
+                ],
+                [
+                    -1.056,
+                    0.923996
+                ],
+                [
+                    -0.968,
+                    0.616005
+                ],
+                [
+                    -0.88,
+                    0.484009
+                ],
+                [
+                    -1.276,
+                    0.748009
+                ],
+                [
+                    -0.66,
+                    0.35200500000001
+                ],
+                [
+                    -1.1,
+                    0.528008
+                ],
+                [
+                    -0.484,
+                    0.263992
+                ],
+                [
+                    -0.44,
+                    0.131996
+                ],
+                [
+                    -0.66,
+                    0.263992
+                ],
+                [
+                    -0.748,
+                    0.175995
+                ],
+                [
+                    -0.308,
+                    0.043998999999999
+                ],
+                [
+                    -0.748,
+                    0.087997000000001
+                ],
+                [
+                    -0.572,
+                    0.043998999999999
+                ],
+                [
+                    -0.528
+                ],
+                [
+                    -0.484,
+                    -0.043998999999999
+                ],
+                [
+                    -0.484
+                ],
+                [
+                    -0.44,
+                    -0.087997000000001
+                ],
+                [
+                    -0.352,
+                    -0.043998999999999
+                ],
+                [
+                    -0.22,
+                    -0.087997000000001
+                ],
+                [
+                    -0.176
+                ],
+                [
+                    -0.484,
+                    -0.131996
+                ],
+                [
+                    -0.44,
+                    -0.131996
+                ],
+                [
+                    -0.396,
+                    -0.087997000000001
+                ],
+                [
+                    -0.616,
+                    -0.175995
+                ],
+                [
+                    -0.66,
+                    -0.219994
+                ],
+                [
+                    -0.792,
+                    -0.263992
+                ],
+                [
+                    -1.364,
+                    -0.484009
+                ],
+                [
+                    -0.748,
+                    -0.264008,
+                    "J",
+                    34.77640914917,
+                    448.65420532227
+                ],
+                [
+                    -1.496,
+                    -0.616013,
+                    "j",
+                    24.803218841553,
+                    -449.31591796875
+                ],
+                [
+                    -1.188,
+                    -0.35200500000001,
+                    "",
+                    34.131160736084,
+                    448.70376586914
+                ],
+                [
+                    -1.408,
+                    -0.131996,
+                    "",
+                    20.603982925415,
+                    -449.52807617188
+                ],
+                [
+                    -2.2,
+                    0.395996,
+                    "",
+                    31.666746139526,
+                    448.88442993164
+                ],
+                [
+                    -1.32,
+                    0.528008,
+                    "",
+                    19.600528717041,
+                    -449.57293701172
+                ],
+                [
+                    -1.012,
+                    0.484009,
+                    "",
+                    31.222143173218,
+                    448.91555786133
+                ],
+                [
+                    -0.924,
+                    0.44000200000001,
+                    "",
+                    26.500894546509,
+                    -449.21899414063
+                ],
+                [
+                    -0.352,
+                    0.220001,
+                    "",
+                    33.4983253479,
+                    448.75146484375
+                ],
+                [
+                    -1.012,
+                    0.70401,
+                    "",
+                    25.527008056641,
+                    -449.27536010742
+                ],
+                [
+                    -0.352,
+                    0.30800600000001,
+                    "",
+                    33.034435272217,
+                    448.7858581543
+                ],
+                [
+                    -0.528,
+                    0.44000200000001,
+                    "",
+                    23.188129425049,
+                    -449.40216064453
+                ],
+                [
+                    -0.132,
+                    0.131996,
+                    "",
+                    28.197473526001,
+                    449.11569213867
+                ],
+                [
+                    -0.176,
+                    0.131996,
+                    "",
+                    24.906364440918,
+                    -449.31021118164
+                ],
+                [
+                    -0.043999999999997,
+                    0,
+                    "",
+                    26.97265625,
+                    449.19091796875
+                ],
+                [
+                    -0.043999999999997,
+                    0.043998999999999,
+                    "",
+                    25.147830963135,
+                    -449.29678344727
+                ],
+                [
+                    -0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    25.83324432373,
+                    449.25787353516
+                ],
+                [
+                    -0.132,
+                    0.263992,
+                    "",
+                    19.958629608154,
+                    -449.55715942383
+                ],
+                [
+                    -0.132,
+                    0.307999,
+                    "",
+                    29.097938537598,
+                    449.05825805664
+                ],
+                [
+                    -0.176,
+                    0.396011,
+                    "",
+                    25.426204681396,
+                    -449.28112792969
+                ],
+                [
+                    -0.22,
+                    0.616013,
+                    "",
+                    28.931100845337,
+                    449.06903076172
+                ],
+                [
+                    -0.132,
+                    0.396011,
+                    "",
+                    25.445049285889,
+                    -449.28002929688
+                ],
+                [
+                    -0.22,
+                    0.572006,
+                    "",
+                    29.104871749878,
+                    449.05780029297
+                ],
+                [
+                    -0.176,
+                    0.528008,
+                    "",
+                    18.304985046387,
+                    -449.62756347656
+                ],
+                [
+                    -0.132,
+                    0.484009,
+                    "",
+                    28.947845458984,
+                    449.06796264648
+                ],
+                [
+                    0,
+                    0.175995,
+                    "",
+                    23.416959762573,
+                    -449.39031982422
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    26.309715270996,
+                    449.23022460938
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    17.322271347046,
+                    -449.66647338867
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    30.733871459961,
+                    448.94924926758
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    21.160409927368,
+                    -449.50219726563
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    25.602806091309,
+                    449.27108764648
+                ],
+                [
+                    0.308,
+                    0.528008,
+                    "",
+                    19.921634674072,
+                    -449.55880737305
+                ],
+                [
+                    0.22,
+                    0.263992,
+                    "",
+                    26.945320129395,
+                    449.19253540039
+                ],
+                [
+                    0.308,
+                    0.44001,
+                    "",
+                    17.315385818481,
+                    -449.66674804688
+                ],
+                [
+                    0.352,
+                    0.528015,
+                    "",
+                    26.917629241943,
+                    449.19421386719
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    23.945989608765,
+                    -449.36242675781
+                ],
+                [
+                    0.088000000000001,
+                    0.175995,
+                    "D",
+                    30.344863891602,
+                    448.97570800781
+                ],
+                [
+                    0.132,
+                    0.395996,
+                    "",
+                    20.391902923584,
+                    -449.53771972656
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    26.409851074219,
+                    449.22436523438
+                ],
+                [
+                    0.043999999999997,
+                    0.131996,
+                    "",
+                    21.977453231812,
+                    -449.46298217773
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    25.235958099365,
+                    449.29180908203
+                ],
+                [
+                    0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    22.529848098755,
+                    -449.43566894531
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    24.064342498779,
+                    449.35610961914
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    15.583207130432,
+                    -449.73010253906
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    30.757183074951,
+                    448.94766235352
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    16.486005783081,
+                    -449.69790649414
+                ]
+            ]
+        },
+        "name": [
+            "middle",
+            "Bypass one-way"
+        ],
+        "position": [
+            1028.4163818359,
+            -559.59161376953,
+            -159.96875
+        ],
+        "viewangles": [
+            5.1308646202087,
+            79.476287841797
+        ],
+        "weapon": "weapon_knife"
+    },
+    {
+        "movement": {
+            "frames": [
+                16,
+                [
+                    0.088000000000001
+                ],
+                [
+                    0,
+                    0.131996
+                ],
+                [
+                    -0.264,
+                    0.351997
+                ],
+                [
+                    -0.264,
+                    0.528008
+                ],
+                [
+                    -0.308,
+                    0.396011
+                ],
+                [
+                    -0.264,
+                    0.395996
+                ],
+                [
+                    -0.396,
+                    0.396004
+                ],
+                [
+                    -0.528,
+                    0.528008
+                ],
+                [
+                    -0.748,
+                    1.276001,
+                    "F"
+                ],
+                [
+                    -1.056,
+                    0.923996
+                ],
+                [
+                    -0.968,
+                    0.616005
+                ],
+                [
+                    -0.88,
+                    0.484009
+                ],
+                [
+                    -1.276,
+                    0.748009
+                ],
+                [
+                    -0.66,
+                    0.35200500000001
+                ],
+                [
+                    -1.1,
+                    0.528008
+                ],
+                [
+                    -0.484,
+                    0.263992
+                ],
+                [
+                    -0.44,
+                    0.131996
+                ],
+                [
+                    -0.66,
+                    0.263992
+                ],
+                [
+                    -0.748,
+                    0.175995
+                ],
+                [
+                    -0.308,
+                    0.043998999999999
+                ],
+                [
+                    -0.748,
+                    0.087997000000001
+                ],
+                [
+                    -0.572,
+                    0.043998999999999
+                ],
+                [
+                    -0.528
+                ],
+                [
+                    -0.484,
+                    -0.043998999999999
+                ],
+                [
+                    -0.484
+                ],
+                [
+                    -0.44,
+                    -0.087997000000001
+                ],
+                [
+                    -0.352,
+                    -0.043998999999999
+                ],
+                [
+                    -0.22,
+                    -0.087997000000001
+                ],
+                [
+                    -0.176
+                ],
+                [
+                    -0.484,
+                    -0.131996
+                ],
+                [
+                    -0.44,
+                    -0.131996
+                ],
+                [
+                    -0.396,
+                    -0.087997000000001
+                ],
+                [
+                    -0.616,
+                    -0.175995
+                ],
+                [
+                    -0.66,
+                    -0.219994
+                ],
+                [
+                    -0.792,
+                    -0.263992
+                ],
+                [
+                    -1.364,
+                    -0.484009
+                ],
+                [
+                    -0.748,
+                    -0.264008,
+                    "J",
+                    34.77640914917,
+                    448.65420532227
+                ],
+                [
+                    -1.496,
+                    -0.616013,
+                    "j",
+                    24.803218841553,
+                    -449.31591796875
+                ],
+                [
+                    -1.188,
+                    -0.35200500000001,
+                    "",
+                    34.131160736084,
+                    448.70376586914
+                ],
+                [
+                    -1.408,
+                    -0.131996,
+                    "",
+                    20.603982925415,
+                    -449.52807617188
+                ],
+                [
+                    -2.2,
+                    0.395996,
+                    "",
+                    31.666746139526,
+                    448.88442993164
+                ],
+                [
+                    -1.32,
+                    0.528008,
+                    "",
+                    19.600528717041,
+                    -449.57293701172
+                ],
+                [
+                    -1.012,
+                    0.484009,
+                    "",
+                    31.222143173218,
+                    448.91555786133
+                ],
+                [
+                    -0.924,
+                    0.44000200000001,
+                    "",
+                    26.500894546509,
+                    -449.21899414063
+                ],
+                [
+                    -0.352,
+                    0.220001,
+                    "",
+                    33.4983253479,
+                    448.75146484375
+                ],
+                [
+                    -1.012,
+                    0.70401,
+                    "",
+                    25.527008056641,
+                    -449.27536010742
+                ],
+                [
+                    -0.352,
+                    0.30800600000001,
+                    "",
+                    33.034435272217,
+                    448.7858581543
+                ],
+                [
+                    -0.528,
+                    0.44000200000001,
+                    "",
+                    23.188129425049,
+                    -449.40216064453
+                ],
+                [
+                    -0.132,
+                    0.131996,
+                    "",
+                    28.197473526001,
+                    449.11569213867
+                ],
+                [
+                    -0.176,
+                    0.131996,
+                    "",
+                    24.906364440918,
+                    -449.31021118164
+                ],
+                [
+                    -0.043999999999997,
+                    0,
+                    "",
+                    26.97265625,
+                    449.19091796875
+                ],
+                [
+                    -0.043999999999997,
+                    0.043998999999999,
+                    "",
+                    25.147830963135,
+                    -449.29678344727
+                ],
+                [
+                    -0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    25.83324432373,
+                    449.25787353516
+                ],
+                [
+                    -0.132,
+                    0.263992,
+                    "",
+                    19.958629608154,
+                    -449.55715942383
+                ],
+                [
+                    -0.132,
+                    0.307999,
+                    "",
+                    29.097938537598,
+                    449.05825805664
+                ],
+                [
+                    -0.176,
+                    0.396011,
+                    "",
+                    25.426204681396,
+                    -449.28112792969
+                ],
+                [
+                    -0.22,
+                    0.616013,
+                    "",
+                    28.931100845337,
+                    449.06903076172
+                ],
+                [
+                    -0.132,
+                    0.396011,
+                    "",
+                    25.445049285889,
+                    -449.28002929688
+                ],
+                [
+                    -0.22,
+                    0.572006,
+                    "",
+                    29.104871749878,
+                    449.05780029297
+                ],
+                [
+                    -0.176,
+                    0.528008,
+                    "",
+                    18.304985046387,
+                    -449.62756347656
+                ],
+                [
+                    -0.132,
+                    0.484009,
+                    "",
+                    28.947845458984,
+                    449.06796264648
+                ],
+                [
+                    0,
+                    0.175995,
+                    "",
+                    23.416959762573,
+                    -449.39031982422
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    26.309715270996,
+                    449.23022460938
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    17.322271347046,
+                    -449.66647338867
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    30.733871459961,
+                    448.94924926758
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    21.160409927368,
+                    -449.50219726563
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    25.602806091309,
+                    449.27108764648
+                ],
+                [
+                    0.308,
+                    0.528008,
+                    "",
+                    19.921634674072,
+                    -449.55880737305
+                ],
+                [
+                    0.22,
+                    0.263992,
+                    "",
+                    26.945320129395,
+                    449.19253540039
+                ],
+                [
+                    0.308,
+                    0.44001,
+                    "",
+                    17.315385818481,
+                    -449.66674804688
+                ],
+                [
+                    0.352,
+                    0.528015,
+                    "",
+                    26.917629241943,
+                    449.19421386719
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    23.945989608765,
+                    -449.36242675781
+                ],
+                [
+                    0.088000000000001,
+                    0.175995,
+                    "D",
+                    30.344863891602,
+                    448.97570800781
+                ],
+                [
+                    0.132,
+                    0.395996,
+                    "",
+                    20.391902923584,
+                    -449.53771972656
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    26.409851074219,
+                    449.22436523438
+                ],
+                [
+                    0.043999999999997,
+                    0.131996,
+                    "",
+                    21.977453231812,
+                    -449.46298217773
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    25.235958099365,
+                    449.29180908203
+                ],
+                [
+                    0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    22.529848098755,
+                    -449.43566894531
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    24.064342498779,
+                    449.35610961914
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    15.583207130432,
+                    -449.73010253906
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    30.757183074951,
+                    448.94766235352
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    16.486005783081,
+                    -449.69790649414
+                ]
+            ]
+        },
+        "name": [
+            "middle",
+            "Bypass one-way"
+        ],
+        "position": [
+            1028.4163818359,
+            -559.59161376953,
+            -159.96875
+        ],
+        "viewangles": [
+            5.1308646202087,
+            79.476287841797
+        ],
+        "weapon": "weapon_scar20"
+    },
+    {
+        "movement": {
+            "frames": [
+                16,
+                [
+                    0.088000000000001
+                ],
+                [
+                    0,
+                    0.131996
+                ],
+                [
+                    -0.264,
+                    0.351997
+                ],
+                [
+                    -0.264,
+                    0.528008
+                ],
+                [
+                    -0.308,
+                    0.396011
+                ],
+                [
+                    -0.264,
+                    0.395996
+                ],
+                [
+                    -0.396,
+                    0.396004
+                ],
+                [
+                    -0.528,
+                    0.528008
+                ],
+                [
+                    -0.748,
+                    1.276001,
+                    "F"
+                ],
+                [
+                    -1.056,
+                    0.923996
+                ],
+                [
+                    -0.968,
+                    0.616005
+                ],
+                [
+                    -0.88,
+                    0.484009
+                ],
+                [
+                    -1.276,
+                    0.748009
+                ],
+                [
+                    -0.66,
+                    0.35200500000001
+                ],
+                [
+                    -1.1,
+                    0.528008
+                ],
+                [
+                    -0.484,
+                    0.263992
+                ],
+                [
+                    -0.44,
+                    0.131996
+                ],
+                [
+                    -0.66,
+                    0.263992
+                ],
+                [
+                    -0.748,
+                    0.175995
+                ],
+                [
+                    -0.308,
+                    0.043998999999999
+                ],
+                [
+                    -0.748,
+                    0.087997000000001
+                ],
+                [
+                    -0.572,
+                    0.043998999999999
+                ],
+                [
+                    -0.528
+                ],
+                [
+                    -0.484,
+                    -0.043998999999999
+                ],
+                [
+                    -0.484
+                ],
+                [
+                    -0.44,
+                    -0.087997000000001
+                ],
+                [
+                    -0.352,
+                    -0.043998999999999
+                ],
+                [
+                    -0.22,
+                    -0.087997000000001
+                ],
+                [
+                    -0.176
+                ],
+                [
+                    -0.484,
+                    -0.131996
+                ],
+                [
+                    -0.44,
+                    -0.131996
+                ],
+                [
+                    -0.396,
+                    -0.087997000000001
+                ],
+                [
+                    -0.616,
+                    -0.175995
+                ],
+                [
+                    -0.66,
+                    -0.219994
+                ],
+                [
+                    -0.792,
+                    -0.263992
+                ],
+                [
+                    -1.364,
+                    -0.484009
+                ],
+                [
+                    -0.748,
+                    -0.264008,
+                    "J",
+                    34.77640914917,
+                    448.65420532227
+                ],
+                [
+                    -1.496,
+                    -0.616013,
+                    "j",
+                    24.803218841553,
+                    -449.31591796875
+                ],
+                [
+                    -1.188,
+                    -0.35200500000001,
+                    "",
+                    34.131160736084,
+                    448.70376586914
+                ],
+                [
+                    -1.408,
+                    -0.131996,
+                    "",
+                    20.603982925415,
+                    -449.52807617188
+                ],
+                [
+                    -2.2,
+                    0.395996,
+                    "",
+                    31.666746139526,
+                    448.88442993164
+                ],
+                [
+                    -1.32,
+                    0.528008,
+                    "",
+                    19.600528717041,
+                    -449.57293701172
+                ],
+                [
+                    -1.012,
+                    0.484009,
+                    "",
+                    31.222143173218,
+                    448.91555786133
+                ],
+                [
+                    -0.924,
+                    0.44000200000001,
+                    "",
+                    26.500894546509,
+                    -449.21899414063
+                ],
+                [
+                    -0.352,
+                    0.220001,
+                    "",
+                    33.4983253479,
+                    448.75146484375
+                ],
+                [
+                    -1.012,
+                    0.70401,
+                    "",
+                    25.527008056641,
+                    -449.27536010742
+                ],
+                [
+                    -0.352,
+                    0.30800600000001,
+                    "",
+                    33.034435272217,
+                    448.7858581543
+                ],
+                [
+                    -0.528,
+                    0.44000200000001,
+                    "",
+                    23.188129425049,
+                    -449.40216064453
+                ],
+                [
+                    -0.132,
+                    0.131996,
+                    "",
+                    28.197473526001,
+                    449.11569213867
+                ],
+                [
+                    -0.176,
+                    0.131996,
+                    "",
+                    24.906364440918,
+                    -449.31021118164
+                ],
+                [
+                    -0.043999999999997,
+                    0,
+                    "",
+                    26.97265625,
+                    449.19091796875
+                ],
+                [
+                    -0.043999999999997,
+                    0.043998999999999,
+                    "",
+                    25.147830963135,
+                    -449.29678344727
+                ],
+                [
+                    -0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    25.83324432373,
+                    449.25787353516
+                ],
+                [
+                    -0.132,
+                    0.263992,
+                    "",
+                    19.958629608154,
+                    -449.55715942383
+                ],
+                [
+                    -0.132,
+                    0.307999,
+                    "",
+                    29.097938537598,
+                    449.05825805664
+                ],
+                [
+                    -0.176,
+                    0.396011,
+                    "",
+                    25.426204681396,
+                    -449.28112792969
+                ],
+                [
+                    -0.22,
+                    0.616013,
+                    "",
+                    28.931100845337,
+                    449.06903076172
+                ],
+                [
+                    -0.132,
+                    0.396011,
+                    "",
+                    25.445049285889,
+                    -449.28002929688
+                ],
+                [
+                    -0.22,
+                    0.572006,
+                    "",
+                    29.104871749878,
+                    449.05780029297
+                ],
+                [
+                    -0.176,
+                    0.528008,
+                    "",
+                    18.304985046387,
+                    -449.62756347656
+                ],
+                [
+                    -0.132,
+                    0.484009,
+                    "",
+                    28.947845458984,
+                    449.06796264648
+                ],
+                [
+                    0,
+                    0.175995,
+                    "",
+                    23.416959762573,
+                    -449.39031982422
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    26.309715270996,
+                    449.23022460938
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    17.322271347046,
+                    -449.66647338867
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    30.733871459961,
+                    448.94924926758
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    21.160409927368,
+                    -449.50219726563
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    25.602806091309,
+                    449.27108764648
+                ],
+                [
+                    0.308,
+                    0.528008,
+                    "",
+                    19.921634674072,
+                    -449.55880737305
+                ],
+                [
+                    0.22,
+                    0.263992,
+                    "",
+                    26.945320129395,
+                    449.19253540039
+                ],
+                [
+                    0.308,
+                    0.44001,
+                    "",
+                    17.315385818481,
+                    -449.66674804688
+                ],
+                [
+                    0.352,
+                    0.528015,
+                    "",
+                    26.917629241943,
+                    449.19421386719
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    23.945989608765,
+                    -449.36242675781
+                ],
+                [
+                    0.088000000000001,
+                    0.175995,
+                    "D",
+                    30.344863891602,
+                    448.97570800781
+                ],
+                [
+                    0.132,
+                    0.395996,
+                    "",
+                    20.391902923584,
+                    -449.53771972656
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    26.409851074219,
+                    449.22436523438
+                ],
+                [
+                    0.043999999999997,
+                    0.131996,
+                    "",
+                    21.977453231812,
+                    -449.46298217773
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    25.235958099365,
+                    449.29180908203
+                ],
+                [
+                    0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    22.529848098755,
+                    -449.43566894531
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    24.064342498779,
+                    449.35610961914
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    15.583207130432,
+                    -449.73010253906
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    30.757183074951,
+                    448.94766235352
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    16.486005783081,
+                    -449.69790649414
+                ]
+            ]
+        },
+        "name": [
+            "middle",
+            "Bypass one-way"
+        ],
+        "position": [
+            1028.4163818359,
+            -559.59161376953,
+            -159.96875
+        ],
+        "viewangles": [
+            5.1308646202087,
+            79.476287841797
+        ],
+        "weapon": "weapon_g3sg1"
+    },
+    {
+        "movement": {
+            "frames": [
+                16,
+                [
+                    0.088000000000001
+                ],
+                [
+                    0,
+                    0.131996
+                ],
+                [
+                    -0.264,
+                    0.351997
+                ],
+                [
+                    -0.264,
+                    0.528008
+                ],
+                [
+                    -0.308,
+                    0.396011
+                ],
+                [
+                    -0.264,
+                    0.395996
+                ],
+                [
+                    -0.396,
+                    0.396004
+                ],
+                [
+                    -0.528,
+                    0.528008
+                ],
+                [
+                    -0.748,
+                    1.276001,
+                    "F"
+                ],
+                [
+                    -1.056,
+                    0.923996
+                ],
+                [
+                    -0.968,
+                    0.616005
+                ],
+                [
+                    -0.88,
+                    0.484009
+                ],
+                [
+                    -1.276,
+                    0.748009
+                ],
+                [
+                    -0.66,
+                    0.35200500000001
+                ],
+                [
+                    -1.1,
+                    0.528008
+                ],
+                [
+                    -0.484,
+                    0.263992
+                ],
+                [
+                    -0.44,
+                    0.131996
+                ],
+                [
+                    -0.66,
+                    0.263992
+                ],
+                [
+                    -0.748,
+                    0.175995
+                ],
+                [
+                    -0.308,
+                    0.043998999999999
+                ],
+                [
+                    -0.748,
+                    0.087997000000001
+                ],
+                [
+                    -0.572,
+                    0.043998999999999
+                ],
+                [
+                    -0.528
+                ],
+                [
+                    -0.484,
+                    -0.043998999999999
+                ],
+                [
+                    -0.484
+                ],
+                [
+                    -0.44,
+                    -0.087997000000001
+                ],
+                [
+                    -0.352,
+                    -0.043998999999999
+                ],
+                [
+                    -0.22,
+                    -0.087997000000001
+                ],
+                [
+                    -0.176
+                ],
+                [
+                    -0.484,
+                    -0.131996
+                ],
+                [
+                    -0.44,
+                    -0.131996
+                ],
+                [
+                    -0.396,
+                    -0.087997000000001
+                ],
+                [
+                    -0.616,
+                    -0.175995
+                ],
+                [
+                    -0.66,
+                    -0.219994
+                ],
+                [
+                    -0.792,
+                    -0.263992
+                ],
+                [
+                    -1.364,
+                    -0.484009
+                ],
+                [
+                    -0.748,
+                    -0.264008,
+                    "J",
+                    34.77640914917,
+                    448.65420532227
+                ],
+                [
+                    -1.496,
+                    -0.616013,
+                    "j",
+                    24.803218841553,
+                    -449.31591796875
+                ],
+                [
+                    -1.188,
+                    -0.35200500000001,
+                    "",
+                    34.131160736084,
+                    448.70376586914
+                ],
+                [
+                    -1.408,
+                    -0.131996,
+                    "",
+                    20.603982925415,
+                    -449.52807617188
+                ],
+                [
+                    -2.2,
+                    0.395996,
+                    "",
+                    31.666746139526,
+                    448.88442993164
+                ],
+                [
+                    -1.32,
+                    0.528008,
+                    "",
+                    19.600528717041,
+                    -449.57293701172
+                ],
+                [
+                    -1.012,
+                    0.484009,
+                    "",
+                    31.222143173218,
+                    448.91555786133
+                ],
+                [
+                    -0.924,
+                    0.44000200000001,
+                    "",
+                    26.500894546509,
+                    -449.21899414063
+                ],
+                [
+                    -0.352,
+                    0.220001,
+                    "",
+                    33.4983253479,
+                    448.75146484375
+                ],
+                [
+                    -1.012,
+                    0.70401,
+                    "",
+                    25.527008056641,
+                    -449.27536010742
+                ],
+                [
+                    -0.352,
+                    0.30800600000001,
+                    "",
+                    33.034435272217,
+                    448.7858581543
+                ],
+                [
+                    -0.528,
+                    0.44000200000001,
+                    "",
+                    23.188129425049,
+                    -449.40216064453
+                ],
+                [
+                    -0.132,
+                    0.131996,
+                    "",
+                    28.197473526001,
+                    449.11569213867
+                ],
+                [
+                    -0.176,
+                    0.131996,
+                    "",
+                    24.906364440918,
+                    -449.31021118164
+                ],
+                [
+                    -0.043999999999997,
+                    0,
+                    "",
+                    26.97265625,
+                    449.19091796875
+                ],
+                [
+                    -0.043999999999997,
+                    0.043998999999999,
+                    "",
+                    25.147830963135,
+                    -449.29678344727
+                ],
+                [
+                    -0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    25.83324432373,
+                    449.25787353516
+                ],
+                [
+                    -0.132,
+                    0.263992,
+                    "",
+                    19.958629608154,
+                    -449.55715942383
+                ],
+                [
+                    -0.132,
+                    0.307999,
+                    "",
+                    29.097938537598,
+                    449.05825805664
+                ],
+                [
+                    -0.176,
+                    0.396011,
+                    "",
+                    25.426204681396,
+                    -449.28112792969
+                ],
+                [
+                    -0.22,
+                    0.616013,
+                    "",
+                    28.931100845337,
+                    449.06903076172
+                ],
+                [
+                    -0.132,
+                    0.396011,
+                    "",
+                    25.445049285889,
+                    -449.28002929688
+                ],
+                [
+                    -0.22,
+                    0.572006,
+                    "",
+                    29.104871749878,
+                    449.05780029297
+                ],
+                [
+                    -0.176,
+                    0.528008,
+                    "",
+                    18.304985046387,
+                    -449.62756347656
+                ],
+                [
+                    -0.132,
+                    0.484009,
+                    "",
+                    28.947845458984,
+                    449.06796264648
+                ],
+                [
+                    0,
+                    0.175995,
+                    "",
+                    23.416959762573,
+                    -449.39031982422
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    26.309715270996,
+                    449.23022460938
+                ],
+                [
+                    0,
+                    0.131996,
+                    "",
+                    17.322271347046,
+                    -449.66647338867
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    30.733871459961,
+                    448.94924926758
+                ],
+                [
+                    0.088000000000001,
+                    0.263992,
+                    "",
+                    21.160409927368,
+                    -449.50219726563
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    25.602806091309,
+                    449.27108764648
+                ],
+                [
+                    0.308,
+                    0.528008,
+                    "",
+                    19.921634674072,
+                    -449.55880737305
+                ],
+                [
+                    0.22,
+                    0.263992,
+                    "",
+                    26.945320129395,
+                    449.19253540039
+                ],
+                [
+                    0.308,
+                    0.44001,
+                    "",
+                    17.315385818481,
+                    -449.66674804688
+                ],
+                [
+                    0.352,
+                    0.528015,
+                    "",
+                    26.917629241943,
+                    449.19421386719
+                ],
+                [
+                    0.132,
+                    0.35200500000001,
+                    "",
+                    23.945989608765,
+                    -449.36242675781
+                ],
+                [
+                    0.088000000000001,
+                    0.175995,
+                    "D",
+                    30.344863891602,
+                    448.97570800781
+                ],
+                [
+                    0.132,
+                    0.395996,
+                    "",
+                    20.391902923584,
+                    -449.53771972656
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    26.409851074219,
+                    449.22436523438
+                ],
+                [
+                    0.043999999999997,
+                    0.131996,
+                    "",
+                    21.977453231812,
+                    -449.46298217773
+                ],
+                [
+                    0,
+                    0,
+                    "",
+                    25.235958099365,
+                    449.29180908203
+                ],
+                [
+                    0.043999999999997,
+                    0.087997000000001,
+                    "",
+                    22.529848098755,
+                    -449.43566894531
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    24.064342498779,
+                    449.35610961914
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    15.583207130432,
+                    -449.73010253906
+                ],
+                [
+                    0,
+                    0.043998999999999,
+                    "",
+                    30.757183074951,
+                    448.94766235352
+                ],
+                [
+                    0,
+                    0.087997000000001,
+                    "",
+                    16.486005783081,
+                    -449.69790649414
+                ]
+            ]
+        },
+        "name": [
+            "middle",
+            "Bypass one-way"
+        ],
+        "position": [
+            1028.4163818359,
+            -559.59161376953,
+            -159.96875
+        ],
+        "viewangles": [
+            5.1308646202087,
+            79.476287841797
+        ],
+        "weapon": "weapon_revolver"
+    },
+    {
+        "description": "UNSAFE",
+        "grenade": {
+            "delay": 1,
+            "recovery_yaw": 180,
+            "run": 17,
+            "run_yaw": 90
+        },
+        "name": [
+            "Mid",
+            "Sanchez"
+        ],
+        "position": [
+            961.72802734375,
+            -447.07315063477,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.1058382987976,
+            48.339405059814
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "UNSAFE",
+        "grenade": {
+            "delay": 1,
+            "recovery_yaw": 180,
+            "run": 17,
+            "run_yaw": 90
+        },
+        "name": [
+            "Mid",
+            "Sanchez"
+        ],
+        "position": [
+            961.68371582031,
+            -447.10375976563,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.0200374126434,
+            48.350414276123
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "UNSAFE",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 90,
+            "run": 3
+        },
+        "name": [
+            "Unnamed",
+            "push"
+        ],
+        "position": [
+            1085.1478271484,
+            -124.04262542725,
+            -159.96875
+        ],
+        "viewangles": [
+            1.1087801456451,
+            -115.05120849609
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "UNSAFE",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 90,
+            "run": 3
+        },
+        "name": [
+            "Unnamed",
+            "push"
+        ],
+        "position": [
+            1085.1429443359,
+            -124.05278015137,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.4881165027618,
+            -115.1237487793
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 4,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "AWP hold"
+        ],
+        "position": [
+            766.55297851563,
+            -1271.9924316406,
+            -290.02969360352
+        ],
+        "viewangles": [
+            -17.450296401978,
+            76.37377166748
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 4,
+            "run_speed": true
+        },
+        "name": [
+            "Unnamed",
+            "AWP hold"
+        ],
+        "position": [
+            767.24847412109,
+            -1272.1071777344,
+            -290.11669921875
+        ],
+        "viewangles": [
+            -17.650466918945,
+            76.479339599609
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "unsafe / corner",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 180,
+            "run": 21,
+            "run_yaw": -70
+        },
+        "name": [
+            "Unnamed",
+            "Window"
+        ],
+        "position": [
+            1131.1427001953,
+            103.67607879639,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.2208037376404,
+            -83.028678894043
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "unsafe",
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 12,
+            "run_yaw": -90
+        },
+        "name": [
+            "Unnamed",
+            "Batchroom / Corner"
+        ],
+        "position": [
+            1131.1026611328,
+            103.70151519775,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.7646269798279,
+            -90.566360473633
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": -90,
+            "run": 12
+        },
+        "name": [
+            "Unnamed",
+            "Corner"
+        ],
+        "position": [
+            1597.4125976563,
+            192.22695922852,
+            -159.96875
+        ],
+        "viewangles": [
+            1.7820267677307,
+            -30.482360839844
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Corner"
+        ],
+        "position": [
+            1597.4553222656,
+            192.21133422852,
+            -159.96873474121
+        ],
+        "viewangles": [
+            0.63363111019135,
+            -25.45316696167
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Paper Door"
+        ],
+        "position": [
+            1614.2907714844,
+            184.7341003418,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.0491497516632,
+            -169.43156433105
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 9,
+            "run_yaw": 68
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            502.19479370117,
+            -1825.0510253906,
+            -335.96875
+        ],
+        "viewangles": [
+            10.671113967896,
+            90.234024047852
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 10,
+            "run_yaw": 95
+        },
+        "name": [
+            "Unnamed",
+            "Stairs"
+        ],
+        "position": [
+            502.2018737793,
+            -1825.0467529297,
+            -335.96875
+        ],
+        "viewangles": [
+            10.433511734009,
+            83.779602050781
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 15,
+            "run_yaw": -91
+        },
+        "name": [
+            "Unnamed",
+            "Under"
+        ],
+        "position": [
+            536.98443603516,
+            -858.02307128906,
+            -223.96875
+        ],
+        "viewangles": [
+            22.392705917358,
+            -80.643623352051
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 90,
+            "run": 11
+        },
+        "name": [
+            "Unnamed",
+            "Wall"
+        ],
+        "position": [
+            1590.0061035156,
+            -507.9563293457,
+            -159.96875
+        ],
+        "viewangles": [
+            1.9008148908615,
+            33.678489685059
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 90,
+            "run": 11
+        },
+        "name": [
+            "Unnamed",
+            "Wall"
+        ],
+        "position": [
+            1590.0064697266,
+            -507.96151733398,
+            -159.96875
+        ],
+        "viewangles": [
+            1.5444147586823,
+            33.718090057373
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "grenade": {
+            "run": 1
+        },
+        "name": [
+            "Unnamed",
+            "Bathroom"
+        ],
+        "position": [
+            -591.02593994141,
+            -599.44073486328,
+            -292.6591796875
+        ],
+        "viewangles": [
+            -18.136775970459,
+            9.2084484100342
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "run": 9
+        },
+        "name": [
+            "Fakeduck",
+            "Picture"
+        ],
+        "position": [
+            1214.1148681641,
+            -1219.9089355469,
+            -279.59866333008
+        ],
+        "viewangles": [
+            -29.644990921021,
+            117.29984283447
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 9
+        },
+        "name": [
+            "Fakeduck",
+            "Picture"
+        ],
+        "position": [
+            919.20581054688,
+            -1325.8194580078,
+            -317.23889160156
+        ],
+        "viewangles": [
+            1.2935384511948,
+            93.306594848633
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 20
+        },
+        "name": [
+            "Fakeduck",
+            "T Start / Awp Spot"
+        ],
+        "position": [
+            919.20556640625,
+            -1325.833984375,
+            -317.240234375
+        ],
+        "viewangles": [
+            4.3735527992249,
+            88.748481750488
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 13
+        },
+        "name": [
+            "Fakeduck",
+            "Picture"
+        ],
+        "position": [
+            1125.1040039063,
+            -1390.6286621094,
+            -329.60235595703
+        ],
+        "viewangles": [
+            3.5419371128082,
+            105.28355407715
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 90,
+            "run": 13
+        },
+        "name": [
+            "BackWay",
+            "T Fakeducking"
+        ],
+        "position": [
+            677.81292724609,
+            -1471.9656982422,
+            -279.96875
+        ],
+        "viewangles": [
+            -10.926422119141,
+            61.322559356689
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Safe / Lethal",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 25,
+            "run_yaw": -90
+        },
+        "name": [
+            "BackWay",
+            "Picture"
+        ],
+        "position": [
+            707.66796875,
+            -1388.421875,
+            -279.96875
+        ],
+        "viewangles": [
+            12.52773475647,
+            103.7184753418
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -95,
+            "run": 9
+        },
+        "name": [
+            "BackWay",
+            "Ramp"
+        ],
+        "position": [
+            532.64215087891,
+            -1465.9739990234,
+            -279.96875
+        ],
+        "viewangles": [
+            -7.4768486022949,
+            120.41223907471
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 15,
+            "run_yaw": 90
+        },
+        "name": [
+            "BackWay",
+            "Ramp"
+        ],
+        "position": [
+            517.79638671875,
+            -1396.6375732422,
+            -279.96875
+        ],
+        "viewangles": [
+            21.644557952881,
+            73.181091308594
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -127,
+            "run": 9
+        },
+        "name": [
+            "BackWay",
+            "Ramp"
+        ],
+        "position": [
+            537.04064941406,
+            -1464.0444335938,
+            -279.96875
+        ],
+        "viewangles": [
+            -8.4932174682617,
+            124.80182647705
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 84
+        },
+        "name": [
+            "Back Way [Secret]",
+            "Ramp"
+        ],
+        "position": [
+            305.63259887695,
+            -1343.5336914063,
+            -279.96875
+        ],
+        "viewangles": [
+            -18.253686904907,
+            43.807792663574
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": -104,
+            "run": 90
+        },
+        "name": [
+            "Fakeduck",
+            "T Start"
+        ],
+        "position": [
+            1187.9138183594,
+            -1421.0489501953,
+            -327.28945922852
+        ],
+        "viewangles": [
+            11.057188034058,
+            102.8543548584
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Probably unsafe",
+        "duck": true,
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": 0,
+            "run": 23
+        },
+        "name": [
+            "Fakeduck",
+            "T Start"
+        ],
+        "position": [
+            806.12316894531,
+            -1180.5590820313,
+            -259.09417724609
+        ],
+        "viewangles": [
+            7.6476669311523,
+            77.37281036377
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 180,
+            "run": 15
+        },
+        "name": [
+            "Mid",
+            "Corner"
+        ],
+        "position": [
+            759.72277832031,
+            -1618.0773925781,
+            -283.45620727539
+        ],
+        "viewangles": [
+            1.9207494258881,
+            -126.09191894531
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": 0,
+            "run": 20
+        },
+        "name": [
+            "Fakeduck",
+            "Main Hall"
+        ],
+        "position": [
+            -927.01971435547,
+            -497.56854248047,
+            -308.9013671875
+        ],
+        "viewangles": [
+            2.244145154953,
+            2.9389235973358
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": -34,
+            "run": 13
+        },
+        "name": [
+            "Front Courtyard",
+            "Side Hall"
+        ],
+        "position": [
+            -732.33660888672,
+            -791.70129394531,
+            -332.96026611328
+        ],
+        "viewangles": [
+            1.4055287837982,
+            26.789197921753
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe [ Left side]",
+        "grenade": {
+            "run": 4,
+            "run_yaw": 180
+        },
+        "name": [
+            "Front Courtyard",
+            "Bait / Peek"
+        ],
+        "position": [
+            -473.68005371094,
+            -669.64453125,
+            -280.81304931641
+        ],
+        "viewangles": [
+            -18.109378814697,
+            29.807506561279
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Safe [ Right Side ]",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": 0
+        },
+        "name": [
+            "Front Courtyard",
+            "Bait / Peek"
+        ],
+        "position": [
+            -473.69000244141,
+            -669.65356445313,
+            -280.81164550781
+        ],
+        "viewangles": [
+            5.5143294334412,
+            37.270893096924
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -82,
+            "run": 6
+        },
+        "name": [
+            "Bathroom",
+            "Front Hall"
+        ],
+        "position": [
+            715.90423583984,
+            -301.53765869141,
+            -159.96875
+        ],
+        "viewangles": [
+            -4.4284954071045,
+            -135.94526672363
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 52
+        },
+        "name": [
+            "Bathroom",
+            "Front Hall"
+        ],
+        "position": [
+            717.94360351563,
+            -81.010513305664,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.7605514526367,
+            142.09437561035
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 180,
+            "run": 15
+        },
+        "name": [
+            "Back Way",
+            "Bathroom"
+        ],
+        "position": [
+            781.99182128906,
+            -912.19604492188,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.1043162345886,
+            39.09391784668
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 91,
+            "run": 6
+        },
+        "name": [
+            "Back Way",
+            "Picture"
+        ],
+        "position": [
+            781.98571777344,
+            -912.18701171875,
+            -159.96875
+        ],
+        "viewangles": [
+            -1.9155224561691,
+            33.596141815186
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "unsafe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 18,
+            "run_yaw": -90
+        },
+        "name": [
+            "T Start",
+            "Conference"
+        ],
+        "position": [
+            1231.8675537109,
+            404.74426269531,
+            -159.96875
+        ],
+        "viewangles": [
+            21.669162750244,
+            -2.6549317836761
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 59,
+            "run": 16
+        },
+        "name": [
+            "Garage",
+            "Stairs"
+        ],
+        "position": [
+            340.42349243164,
+            -1864.3570556641,
+            -335.96875
+        ],
+        "viewangles": [
+            -11.982866287231,
+            77.917549133301
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 59,
+            "run": 16
+        },
+        "name": [
+            "Garage",
+            "Stairs"
+        ],
+        "position": [
+            340.72961425781,
+            -1864.2719726563,
+            -335.96875
+        ],
+        "viewangles": [
+            -12.059830665588,
+            77.871322631836
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Unsafe / Movement",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 13,
+            "run_yaw": -90
+        },
+        "name": [
+            "Garage",
+            "Stairs"
+        ],
+        "position": [
+            331.75204467773,
+            -1779.3391113281,
+            -335.96875
+        ],
+        "viewangles": [
+            9.0327205657959,
+            99.872146606445
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "Unsafe / Movement",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 12,
+            "run_yaw": -90
+        },
+        "name": [
+            "Garage",
+            "Stairs"
+        ],
+        "position": [
+            331.76501464844,
+            -1779.3177490234,
+            -335.96875
+        ],
+        "viewangles": [
+            8.5936126708984,
+            99.334526062012
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 25,
+            "run_yaw": 90
+        },
+        "name": [
+            "Main Hall",
+            "BackWay"
+        ],
+        "position": [
+            830.83898925781,
+            -573.47027587891,
+            -159.96875
+        ],
+        "viewangles": [
+            21.783365249634,
+            -119.70202636719
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 25,
+            "run_yaw": 90
+        },
+        "name": [
+            "Main Hall",
+            "BackWay"
+        ],
+        "position": [
+            830.83197021484,
+            -573.47857666016,
+            -159.96875
+        ],
+        "viewangles": [
+            21.706405639648,
+            -119.85607147217
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 12,
+            "run_yaw": -90
+        },
+        "name": [
+            "BackWay [T]",
+            "BackWay"
+        ],
+        "position": [
+            529.84362792969,
+            -933.83081054688,
+            -223.96875
+        ],
+        "viewangles": [
+            20.335781097412,
+            -103.16268920898
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 12,
+            "run_yaw": -90
+        },
+        "name": [
+            "BackWay [T]",
+            "BackWay"
+        ],
+        "position": [
+            529.84112548828,
+            -933.83813476563,
+            -223.96875
+        ],
+        "viewangles": [
+            20.412805557251,
+            -103.16285705566
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "unsafe / movement",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 25,
+            "run_yaw": 90
+        },
+        "name": [
+            "BackWay [T]",
+            "BackWay"
+        ],
+        "position": [
+            780.73413085938,
+            -917.80786132813,
+            -159.96875
+        ],
+        "viewangles": [
+            32.162971496582,
+            -123.52183532715
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "unsafe / movement",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 25,
+            "run_yaw": 90
+        },
+        "name": [
+            "BackWay [T]",
+            "Back Courtyard"
+        ],
+        "position": [
+            780.73150634766,
+            -917.82104492188,
+            -159.96875
+        ],
+        "viewangles": [
+            23.261806488037,
+            -120.78079986572
+        ],
+        "weapon": "weapon_hegrenade"
+    },
+    {
+        "description": "unsafe / movement",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 19,
+            "run_yaw": -90
+        },
+        "name": [
+            "BackWay [T]",
+            "T Start / Awp hold"
+        ],
+        "position": [
+            782.02899169922,
+            -912.20025634766,
+            -159.96875
+        ],
+        "viewangles": [
+            19.327629089355,
+            96.670562744141
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -109,
+            "run": 12
+        },
+        "name": [
+            "Fakeduck",
+            "Picture / Bathroom Peek"
+        ],
+        "position": [
+            1214.0941162109,
+            -1219.8990478516,
+            -279.59225463867
+        ],
+        "viewangles": [
+            -20.329769134521,
+            114.70423126221
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": 52,
+            "run": 17
+        },
+        "name": [
+            "Back Courtyard",
+            "T Fakeducking"
+        ],
+        "position": [
+            631.759765625,
+            -1864.9046630859,
+            -332.81225585938
+        ],
+        "viewangles": [
+            6.9288606643677,
+            66.675903320313
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "run": 3
+        },
+        "name": [
+            "T Start",
+            "Conference"
+        ],
+        "position": [
+            1463.8190917969,
+            24.03157043457,
+            -159.96875
+        ],
+        "viewangles": [
+            0.62692272663116,
+            37.294971466064
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "T Start",
+            "Peek Holder / Near Hostage"
+        ],
+        "position": [
+            1463.7481689453,
+            24.006460189819,
+            -159.96875
+        ],
+        "viewangles": [
+            1.0044199228287,
+            50.721981048584
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "name": [
+            "Kitchen",
+            "Near Hostage"
+        ],
+        "position": [
+            1606.4637451172,
+            -370.02584838867,
+            -159.96875
+        ],
+        "viewangles": [
+            -3.5540719032288,
+            -60.445850372314
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "run": 7
+        },
+        "name": [
+            "Garage",
+            "CT Start"
+        ],
+        "position": [
+            138.54736328125,
+            -1810.3638916016,
+            -335.96875
+        ],
+        "viewangles": [
+            -6.5417695045471,
+            172.64811706543
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -88,
+            "run": 7
+        },
+        "name": [
+            "Main Hall",
+            "Fakeduck"
+        ],
+        "position": [
+            122.1323928833,
+            -340.10736083984,
+            -159.96875
+        ],
+        "viewangles": [
+            -2.592529296875,
+            -149.97439575195
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "Safe / Peek",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -48
+        },
+        "name": [
+            "BackWay",
+            "Main Hall"
+        ],
+        "position": [
+            1181.9665527344,
+            -870.60791015625,
+            -159.96875
+        ],
+        "viewangles": [
+            8.7573947906494,
+            151.86053466797
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "description": "safe",
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": 180,
+            "run": 11
+        },
+        "name": [
+            "BackWay",
+            "Main Hall"
+        ],
+        "position": [
+            1181.9768066406,
+            -818.02313232422,
+            -159.96875
+        ],
+        "viewangles": [
+            -6.9351625442505,
+            -121.93036651611
+        ],
+        "weapon": "weapon_molotov"
+    }
+]

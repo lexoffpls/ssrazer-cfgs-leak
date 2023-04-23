@@ -1,0 +1,284 @@
+[
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_yaw": -90,
+            "strength": 0.5
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            586.20532226563,
+            -859.97009277344,
+            111.50463867188
+        ],
+        "viewangles": [
+            -2.4200010299683,
+            78.897514343262
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_yaw": -90,
+            "strength": 0.5
+        },
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            1134.9555664063,
+            916.02825927734,
+            108.76512145996
+        ],
+        "viewangles": [
+            -0.10997979342937,
+            -107.23654174805
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Unnamed",
+            "Plant"
+        ],
+        "position": [
+            -2069.1989746094,
+            241.25350952148,
+            88.031242370605
+        ],
+        "viewangles": [
+            -13.35399055481,
+            49.227550506592
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -90
+        },
+        "name": [
+            "Unnamed",
+            "Box"
+        ],
+        "position": [
+            -2015.4449462891,
+            87.636276245117,
+            76.03125
+        ],
+        "viewangles": [
+            -1.850161075592,
+            78.352821350098
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_jump": true,
+            "recovery_yaw": -90,
+            "run": 20
+        },
+        "name": [
+            "Unnamed",
+            "Box"
+        ],
+        "position": [
+            -2136.4626464844,
+            -471.09106445313,
+            75.99796295166
+        ],
+        "viewangles": [
+            -4.3141212463379,
+            79.686866760254
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "recovery_yaw": 180,
+            "run": 42
+        },
+        "name": [
+            "Main Hall",
+            "Back A Bombsite Box"
+        ],
+        "position": [
+            -2020.0787353516,
+            48.016536712646,
+            76.03125
+        ],
+        "viewangles": [
+            -4.5673079490662,
+            79.099380493164
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "delay": 2,
+            "run": 12,
+            "run_speed": true
+        },
+        "name": [
+            "Outside Main Hall",
+            "Side Boxes A Bombsite"
+        ],
+        "position": [
+            -2055.9907226563,
+            350.33322143555,
+            88.03125
+        ],
+        "viewangles": [
+            -9.3322906494141,
+            26.461437225342
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 8
+        },
+        "name": [
+            "Main Hall Exit",
+            "CT A site corner"
+        ],
+        "position": [
+            -2014.9525146484,
+            312.26953125,
+            88.03125
+        ],
+        "viewangles": [
+            -12.112988471985,
+            34.316932678223
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "recovery_jump": true,
+            "run": 26
+        },
+        "name": [
+            "Outside middle connector to middle",
+            "connector"
+        ],
+        "position": [
+            -969.83984375,
+            -812.00457763672,
+            32.03125
+        ],
+        "viewangles": [
+            -13.589738845825,
+            27.16827583313
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Outside middle connector",
+            "middle pocket"
+        ],
+        "position": [
+            -1048.2687988281,
+            -843.97900390625,
+            34.182235717773
+        ],
+        "viewangles": [
+            -22.29204750061,
+            32.706516265869
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Outside middle connector",
+            "Middle entrance"
+        ],
+        "position": [
+            -864.70812988281,
+            -843.97381591797,
+            35.690635681152
+        ],
+        "viewangles": [
+            -31.108386993408,
+            72.245513916016
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Ruins",
+            "B ramp corner"
+        ],
+        "position": [
+            1155.6094970703,
+            -1403.2506103516,
+            57.911239624023
+        ],
+        "viewangles": [
+            -21.637447357178,
+            86.441139221191
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 6
+        },
+        "name": [
+            "Ramp",
+            "B site pocket"
+        ],
+        "position": [
+            1299.9908447266,
+            -335.00247192383,
+            88.705467224121
+        ],
+        "viewangles": [
+            -16.016523361206,
+            142.68898010254
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "Ramp",
+            "Construction Door"
+        ],
+        "position": [
+            1383.9964599609,
+            -574.44763183594,
+            34.171295166016
+        ],
+        "viewangles": [
+            -29.992097854614,
+            137.13055419922
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 17
+        },
+        "name": [
+            "Ramp",
+            "B site pillar"
+        ],
+        "position": [
+            1332.5804443359,
+            -508.28125,
+            36.273826599121
+        ],
+        "viewangles": [
+            -15.554641723633,
+            119.99794006348
+        ],
+        "weapon": "weapon_molotov"
+    }
+]

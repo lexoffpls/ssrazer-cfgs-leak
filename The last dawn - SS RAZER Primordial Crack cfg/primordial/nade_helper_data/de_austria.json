@@ -1,0 +1,308 @@
+[
+    {
+        "name": [
+            "Street",
+            "House"
+        ],
+        "position": [
+            208.00180053711,
+            -100.03119659424,
+            -199.70880126953
+        ],
+        "viewangles": [
+            -21.175,
+            0.0457
+        ],
+        "weapon": "weapon_flashbang"
+    },
+    {
+        "name": [
+            "B",
+            "House"
+        ],
+        "position": [
+            1568.03125,
+            115.03130340576,
+            -111.83550262451
+        ],
+        "viewangles": [
+            -22.5621,
+            127.1007
+        ],
+        "weapon": "weapon_flashbang"
+    },
+    {
+        "name": [
+            "Storage",
+            "A Long"
+        ],
+        "position": [
+            -731.96801757813,
+            588.82147216797,
+            -159.96870422363
+        ],
+        "viewangles": [
+            -10.825,
+            -13.9249
+        ],
+        "weapon": "weapon_flashbang"
+    },
+    {
+        "name": [
+            "A",
+            "Long"
+        ],
+        "position": [
+            -955.96868896484,
+            912.03131103516,
+            -157.37890625
+        ],
+        "viewangles": [
+            -4.291,
+            7.9411
+        ],
+        "weapon": "weapon_flashbang"
+    },
+    {
+        "grenade": {
+            "strength": 0
+        },
+        "name": [
+            "A",
+            "Long"
+        ],
+        "position": [
+            -1359.9986572266,
+            1232.03125,
+            -157.7785949707
+        ],
+        "viewangles": [
+            -62.8549,
+            -0.7709
+        ],
+        "weapon": "weapon_flashbang"
+    },
+    {
+        "name": [
+            "A",
+            "A"
+        ],
+        "position": [
+            -994.99298095703,
+            1467.03125,
+            -163.07890319824
+        ],
+        "viewangles": [
+            -2.3548,
+            96.5131
+        ],
+        "weapon": "weapon_flashbang"
+    },
+    {
+        "grenade": {
+            "jump": true
+        },
+        "name": [
+            "CT",
+            "A"
+        ],
+        "position": [
+            239.96879577637,
+            2155.96875,
+            -133.19500732422
+        ],
+        "viewangles": [
+            -2.476,
+            -141.3374
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true,
+            "run": 25
+        },
+        "name": [
+            "Yellow House",
+            "B"
+        ],
+        "position": [
+            -99.943298339844,
+            1463.6181640625,
+            -189.55810546875
+        ],
+        "viewangles": [
+            -13.608,
+            -24.8145
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "name": [
+            "CT Spawn",
+            "Bridge"
+        ],
+        "position": [
+            643.96881103516,
+            1703.7315673828,
+            -144.90530395508
+        ],
+        "viewangles": [
+            -12.156,
+            -71.4703
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true
+        },
+        "name": [
+            "T Spawn",
+            "A"
+        ],
+        "position": [
+            -1644.7239990234,
+            -1211.6599121094,
+            -128.93710327148
+        ],
+        "viewangles": [
+            -7.074,
+            70.377
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true
+        },
+        "name": [
+            "Wall",
+            "Bridge"
+        ],
+        "position": [
+            -105.53810119629,
+            -966.41772460938,
+            -235.08059692383
+        ],
+        "viewangles": [
+            -24.321,
+            60.4944
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true
+        },
+        "name": [
+            "Back of B",
+            "Shed"
+        ],
+        "position": [
+            1527.6114501953,
+            1533.3350830078,
+            -161.54299926758
+        ],
+        "viewangles": [
+            -13.097,
+            -83.0276
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true
+        },
+        "name": [
+            "Street",
+            "Window"
+        ],
+        "position": [
+            279.6242980957,
+            -329.96868896484,
+            -232.64990234375
+        ],
+        "viewangles": [
+            -46.2779,
+            34.6594
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true
+        },
+        "name": [
+            "Balcony",
+            "Yellow"
+        ],
+        "position": [
+            1052.03125,
+            -247.96870422363,
+            -35.726898193359
+        ],
+        "viewangles": [
+            -6.2269,
+            124.5021
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true
+        },
+        "name": [
+            "Fountain",
+            "Storage"
+        ],
+        "position": [
+            207.96879577637,
+            -587.96868896484,
+            -233.03019714355
+        ],
+        "viewangles": [
+            -26.6759,
+            155.3621
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "jump": true
+        },
+        "name": [
+            "Fountain",
+            "Street"
+        ],
+        "position": [
+            -477.39889526367,
+            -1106.03125,
+            -205.12300109863
+        ],
+        "viewangles": [
+            -22.32,
+            39.6664
+        ],
+        "weapon": "weapon_smokegrenade"
+    },
+    {
+        "grenade": {
+            "run": 15
+        },
+        "name": [
+            "CT Spawn",
+            "A Long"
+        ],
+        "position": [
+            239.96879577637,
+            2155.9758300781,
+            -133.19299316406
+        ],
+        "viewangles": [
+            -41.833,
+            -129.572
+        ],
+        "weapon": "weapon_smokegrenade"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "name": [
+            "fl-off-fakeduck",
+            "FD"
+        ],
+        "position": [
+            1296.0068359375,
+            1796.7672119141,
+            -146.96875
+        ],
+        "viewangles": [
+            -21.591959,
+            -82.85211
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "grenade": {
+            "run": 4
+        },
+        "name": [
+            "fd",
+            "fd"
+        ],
+        "position": [
+            1958.5355224609,
+            1203.1958007813,
+            -190.96875
+        ],
+        "viewangles": [
+            -12.3760014,
+            -105.7798
+        ],
+        "weapon": "weapon_molotov"
+    },
+    {
+        "name": [
+            "T-push",
+            "T-push"
+        ],
+        "position": [
+            1497.2091064453,
+            508.24926757813,
+            -158.96875
+        ],
+        "viewangles": [
+            -19.50399,
+            49.5321732
+        ],
+        "weapon": "weapon_molotov"
+    }
+]
