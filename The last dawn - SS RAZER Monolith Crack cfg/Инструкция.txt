@@ -1,0 +1,4 @@
+Monolith Crack - Under cx (Tectity)
+1. Папку "tectity" переместить в папку с игрой.
+2. В меню конфигов выбрать конфиг "RAZE" 
+
